@@ -1,0 +1,22 @@
+Author: Daniel Stephens 'Scribe'
+License: CC0 (Public Domain)
+Origin: http://opengameart.org/content/human-heart
+
+Hey again,
+
+I thought it might be nice to have a human heart model for a beating heart GUI's on gorry/realistic game health bars or to find in-game, it's up to you!
+
+The is a very basic model and there are probably a lot of major arteries missing and none of the inside mechanics have been modelled so it's pretty useless in terms of being medically acurate.
+
+It has 657 veticies but it could be quite easily reduced if the model was being used as a model, though I more intended this to be rendered as a GUI visulisation of the characters health etc, but feel free to do with it as you wish.
+
+It is not unwrapped and I have just applied a cloud textures to it to give the colour some variation.
+
+This is a quick demonstration of the animation I've made for it (https://www.youtube.com/watch?v=k2NpAvTYipo)
+
+Attribution is not necessary however it's always nice!
+
+Scribe
+
+Attribution Instructions: 
+hey, if you credit me please use either 'Scribe' or 'Daniel Stephens' or both and I'm sure a link back to 'opengameart.org' would be appreciated as well though credit is not necessary.

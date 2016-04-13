@@ -1,0 +1,39 @@
+______________________________________________________________________
+______________________________________________________________________
+__________      ___.        ____   ____             .__               
+\______   \ ____\_ |__   ___\   \ /   /____    _____|__| ____   ____  
+ |       _//  _ \| __ \ /  _ \   Y   /\__  \  /  ___/  |/  _ \ /    \ 
+ |    |   (  <_> ) \_\ (  <_> )     /  / __ \_\___ \|  (  <_> )   |  \
+ |____|_  /\____/|___  /\____/ \___/  (____  /____  >__|\____/|___|  /
+        \/           \/                    \/     \/               \/ 
+______________________________________________________________________
+______________________________________________________________________
+
+Welcome to RoboVasion, a free realtime stratagy game for GNU/Linux,
+covered under the GPL. RoboVasion makes use of the Stratagus engine,
+which is available at: 
+
+ * http://www.nongnu.org/stratagus/
+
+If you look for detailed installation instruction have a look at the
+file INSTALL. For more infos, updates, new missions and other stuff on
+RoboVasion itself you can visit the RoboVasion webpage at:
+
+ * http://www.nongnu.org/robovasion/
+
+'Sourcecode' (in the form of multilayer .xcf files) for most of the
+graphics that are used in RoboVasion is inside the CVS repository,
+which can be accessed with:
+
+ $ cvs -d:pserver:anoncvs@subversions.gnu.org:/cvsroot/robovasion login
+ $ cvs -z3 -d:pserver:anoncvs@subversions.gnu.org:/cvsroot/robovasion co robovasion
+
+Questions, comments, bug reports and other stuff you want the
+RoboVasion development team to know can be send to the:
+
+ * RoboVasion Development List <robovasion-devel@nongnu.org>
+
+______________________________________________________________________
+
+--------------------------------- EOF- -------------------------------
+______________________________________________________________________

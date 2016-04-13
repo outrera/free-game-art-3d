@@ -1,0 +1,62 @@
+             ____________________________________________
+              __________________________________________
+              .___                 __         .__  .__
+              |   | ____   _______/  |______  |  | |  |
+              |   |/    \ /  ___/\   __\__  \ |  | |  |
+              |   |   |  \\___ \  |  |  / __ \|  |_|  |__
+              |___|___|  /____  > |__| (____  /____/____/
+                       \/     \/            \/
+              __________________________________________
+             ____________________________________________
+
+For informations on RoboVasion itself, web URLs and email addresses
+have a look at the README file. This file should guide you through the
+installation procedure of RoboVasion.
+
+..:: Getting dependencies ::..
+==============================
+
+RoboVasion makes use of the Stratagus engine and requires that it is
+installed and working correctly, the Stratagus engine is available at:
+
+ * http://www.nongnu.org/stratagus/
+
+Informations on how to install that are included in the package.
+
+
+..:: Installing RoboVasion ::..
+===============================
+
+Once you have Stratagus installed correctly, all that RoboVasion needs
+is a simple:
+
+  $ ./configure
+  $ make
+  $ make install
+
+If you like you can tweak a few parameters like install path and such,
+for more details look at the output of:
+
+  $ ./configure --help
+
+
+..:: Running RoboVasion ::..
+============================
+
+Once RoboVasion and Stratagus are installed correctly, you should be
+able to simply start it by typing:
+
+  $ robovasion
+
+
+..:: Troubleshooting ::..
+=========================
+
+If you have throuble compiling or installing RoboVasion, have a look
+at the README file for informations on how to report throuble to the
+RoboVasion team.
+
+______________________________________________________________________
+
+--------------------------------- EOF- -------------------------------
+______________________________________________________________________

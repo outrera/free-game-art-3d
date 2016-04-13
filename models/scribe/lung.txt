@@ -1,0 +1,17 @@
+Author: Daniel Stephens 'Scribe'
+License: CC0 (Public Domain)
+Origin: http://opengameart.org/content/human-lungs
+
+Hi there,
+
+After reasonable success with my model of a human heart I decided that I would continue the idea and create some more important organs so here is a model of a pair of human lungs.
+
+The model has 478 vertices and has an animation which you can see a demonstration of here, this model was made to be rendered as a GUI animation to represent health like the heart was, however it can be used as a 3D model quite easily as well!
+
+I think I will make the brain when I have the chance as most likely the final installment in this set unless anyone has any specific requests.
+
+Enjoy!
+Scribe 
+
+Attribution Instructions: 
+Credit is appreciated though it is not necessary! If you credit me please use either 'Scribe' or 'Daniel Stephens' or both and I'm sure a link back to 'opengameart.org' would be appreciated as well.
