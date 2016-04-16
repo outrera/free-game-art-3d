@@ -1,0 +1,8 @@
+Author: Gabriel Piacenti
+License: CC-BY 3.0
+Origin: http://opengameart.org/content/windmill-2
+
+Simple windmill that I made. It also has an inside area. Enjoy it. The textures and the blend file are in the zip.
+
+Donations appreciated and they help me justify to my wife the time spent on making 3D. They can be done using this paypal link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=CCW3SXJZARA5W&lc=US&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
+

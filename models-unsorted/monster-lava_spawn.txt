@@ -1,0 +1,17 @@
+Author: Gabriel Piacenti, Gabriel Verdon, Katarzyna Zalecka
+License: CC-BY-SA 3.0
+Origin: http://opengameart.org/content/lava-spawn
+        http://opengameart.org/content/lava-spawn-animated
+
+3 models. One 1799 tirangles, another with 3601 and one very high poly for whatever you may need. There are only textures for the first two, 4096x4096 for the higher poly and 1024x1024 for the lower poly (normal, diffuse and emission). If you want the higher textures in the lower poly you can simply bake them from the higher poly (I didn't include higher for both to keep file smaller). This is based on concept art from Ancient Beasts.
+
+Donations appreciated and they will be used to improve my 3D through new software or extra time spent on the models. They can be done using this paypal link."=
+
+Original Artwork:
+http://ancientbeast.com/media/?type=artwork#id=28
+
+----------------------------------------
+
+Hello, I've made some basic rigging and animation for the Lava Spawn from piacenti for use in the OpenDungeons project.
+
+ Copyright/Attribution Notice: Original artwork for Ancient Beast:Magma Spawn by Gabriel Verdon and Katarzyna Zalecka Model from piacenti:Lava Spawn by piacenti 

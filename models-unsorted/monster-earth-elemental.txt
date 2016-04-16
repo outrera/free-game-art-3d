@@ -1,0 +1,16 @@
+Author: Gabriel Piacenti
+License: CC-BY 3.0
+Origin: http://opengameart.org/content/earth-elemental-golem
+
+2 models of earth elementals that are slightly different.
+
+They have 10 animations and are already set up for Unity.
+
+Models were made in blender and exported to fbx so they should be easy to import to blender.
+
+Both models are in the range of 3872-3882 triangles. 
+
+Comment below if anything is broken or not working and if feasible I'll fix it. 
+
+Donations appreciated and they help me justify to my wife the time spent on making 3D. They can be done using this paypal link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=CCW3SXJZARA5W&lc=US&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
+
