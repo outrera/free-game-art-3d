@@ -1,0 +1,17 @@
+Author: Vincent Sevedge (http://opengameart.org/users/tabasco)
+License: CC-BY-SA 3.0, LGPL 2.1, LGPL 3.0
+Origin: http://opengameart.org/content/various-small-arms-assault-rifles-sniper-pistol
+
+This is a collection of relatively low-poly firearms.  The iron sites are fairly detailed and line up appropriately for realistic applications.  The bolts / slides for most weapons are also animated.
+
+It has the following:
+- AK-47
+- M4 / AR-15
+- Dragunov (SVD)
+- G3A3
+- L85A1
+- Mosin Nagant 91/30
+- M1911
+
+These do not have UV textures, only Blender materials.
+

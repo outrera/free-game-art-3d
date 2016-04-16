@@ -1,0 +1,5 @@
+Author: TiZiana (http://www.unbruco.it/offcircle/index_en.html)
+License: CC-BY 3.0
+Origin: http://opengameart.org/content/objects-in-a-house
+
+Objects to have in a house. .blend file and textures.

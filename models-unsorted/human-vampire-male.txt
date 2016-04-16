@@ -1,0 +1,5 @@
+Author: TiZiana (http://www.unbruco.it/offcircle/index_en.html)
+License: CC-BY 3.0
+Origin: http://opengameart.org/content/undead-male
+
+Polycount is above 2000 tris,  textures are two 512*512 pixel. Rigged.

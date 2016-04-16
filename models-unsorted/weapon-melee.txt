@@ -1,0 +1,15 @@
+Author: Vincent Sevedge (http://opengameart.org/users/tabasco)
+License: CC-BY-SA 3.0, LGPL 2.1, LGPL 3.0
+Origin: http://opengameart.org/content/various-melee-weapons
+
+This is a simple, low-poly, poorly textured melee weapon pack.
+
+It has the following:
+- Bat
+- Falcata
+- Hunting Knife
+- Katana
+- Lead Pipe
+- Machete
+- Shillelagh
+- Sledgehammer

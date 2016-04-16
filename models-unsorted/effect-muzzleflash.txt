@@ -1,0 +1,5 @@
+Author: Julius (http://freegamer.blogspot.com/)
+License: CC-BY-SA 3.0, GPL 2.0, GPL 3.0
+Origin: http://opengameart.org/content/muzzle-flash-with-model
+
+Muzzle flash (with model) for first person weapons in a FPS
