@@ -1,0 +1,9 @@
+Author: Galun
+License: Public Domain (CC0)
+Origin: http://opengameart.org/content/wooden-chair
+
+A wooden chair in Collada 1.4 format.
+
+vertices: 180
+
+textures: 1

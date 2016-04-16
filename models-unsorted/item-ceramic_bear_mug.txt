@@ -1,0 +1,15 @@
+Author: Aare
+License: CC-BY
+Origin: http://opengameart.org/content/ceramic-bear-mug
+
+Ceramic bear mug.
+
+Originally created for DungeonHack: http://dungeonhack.sourceforge.net/Main_Page
+
+Created in Blender 2.49b.
+
+146 faces
+
+275 triangle faces
+
+512x512 textures: diffuse map, normal map and specular map.

@@ -1,0 +1,15 @@
+Author: Aare
+License: CC-BY
+Origin: http://opengameart.org/content/fat-spacepirate-facial-animation
+
+Old book.
+
+Originally created for DungeonHack (http://dungeonhack.sourceforge.net/Main_Page)
+
+Created in Blender 2.49b.
+
+48 faces
+
+92 triangle faces
+
+512x512 textures: diffuse map, normal map and specular map.

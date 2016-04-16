@@ -1,0 +1,15 @@
+Author: http://www.pixelhouse.com.ar
+License: CC-BY
+Origin: http://opengameart.org/content/zombie
+
+Full rigged zombie with 3 animations (walk, fury, dead)
+
+3 maps (difusse, especular and normals)
+
+all files in FBX format.
+
+We create custom design, models, art and animation for games.
+
+visit our website, enjoy the model.
+
+http://www.pixelhouse.com.ar

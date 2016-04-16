@@ -1,0 +1,16 @@
+Author: Aare
+License: CC-BY
+Origin: http://opengameart.org/content/fat-spacepirate-facial-animation
+
+This is FatSpacePirate facial animation i made for Privateer Gemini Gold intro.
+If you know the game, he's the pirate who is seen in the green monitor inside Burrows spaceship Taurus.
+Eventually this was not used in the intro.
+
+Made in Blender.
+
+Textured, has shapekeyes for most phenomes. And lipsync animation but soundfile is not included.
+
+This was my first facial animation.
+
+http://vimeo.com/10603022
+

@@ -1,0 +1,7 @@
+Author: Galun
+License: CC-BY-SA 3.0, GPL 2.0, GPL 3.0
+Origin: http://opengameart.org/content/carriage
+
+A carriage in 4199 surfaces, textured. Originally made in AC3D for a MMORPG and there are other formats available.
+
+This is the model in animation: http://www.youtube.com/watch?v=eucdjYFeDIE and http://www.youtube.com/watch?v=M6VUnLepWmQ
