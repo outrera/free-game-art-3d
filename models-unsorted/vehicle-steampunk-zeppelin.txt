@@ -1,0 +1,6 @@
+Author: John Harvey 'johndh' (http://opengameart.org/users/johndh)
+License: GPL 2.0, GPL 3.0, CC-BY-SA 3.0
+Origin: http://opengameart.org/content/zeppelin-steampunk-style
+
+To make it a little more steampunk, I added some various improbable accessories, like pontoons and fabric rudders.  It weighs in at around a thousand polygons, and was roughly inspired by Glest's airship.
+

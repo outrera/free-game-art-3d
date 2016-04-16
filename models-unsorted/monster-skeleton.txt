@@ -1,0 +1,11 @@
+Author: Gord Goodwin (http://gord-goodwin.blogspot.com/)
+License: Public Domain (CC0)
+Origin: http://opengameart.org/content/skeleton-with-rig
+
+Simple rigged skeleton, found here:
+
+http://www.blendswap.com/3D-models/characters/simple-rigged-skeleton/
+
+Done by this guy:
+
+http://gord-goodwin.blogspot.com/2010/03/manny-mannequin.html

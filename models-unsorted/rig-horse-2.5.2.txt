@@ -1,0 +1,21 @@
+Author: Bitiquinho
+License: CC-BY 2.5, CC-BY 3.0
+Origin: http://opengameart.org/content/blender-horse-rig-alex
+
+An advanced animation rig for Blender 2.5
+
+Original page:
+
+http://blenderartists.org/forum/showthread.php?t=187051
+
+ 
+
+Video tutorial:
+http://www.vimeo.com/11758048
+
+Note from Bart:  I contacted the artist on the forum thread.  While the rig was originally released under CC-BY 2.5, he agreed to release it under CC-BY 3.0.  He says:
+
+"sure, any of my rigs are free to use for whatever you feel like (commercial or non-commericial)
+you can credit me if you feel like it, but it's not necessary 
+I would like to see where they end up, even if people are just practicing with them :)"
+

@@ -1,0 +1,5 @@
+Author: Svenstaro
+License: GPL3
+Origin: http://opengameart.org/content/turbine
+
+Futuristic industrial turbine. Animated but not unwrapped or textured.

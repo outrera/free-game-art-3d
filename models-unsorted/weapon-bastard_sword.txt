@@ -1,0 +1,6 @@
+Author: Svenstaro
+License: GPL3
+Origin: http://opengameart.org/content/bastard-sword
+
+A big sword I once textured for the OpenFrag project. It is textured, unwrapped and ready to use.
+

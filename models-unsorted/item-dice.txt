@@ -1,0 +1,5 @@
+Author: Arthur
+License: CC-BY-SA, GPL 3.0, GPL 2.0
+Origin: http://opengameart.org/content/dice-0
+
+A 405 vertices dice, presented with subsurfing. Dunno what to say more than: if you find this useful, please let me know, though it is not a requirement. :)

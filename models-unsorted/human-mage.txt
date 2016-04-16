@@ -1,0 +1,12 @@
+Author: thecubber (http://opengameart.org/users/thecubber)
+License: CC-BY-SA 3.0
+Origin: http://opengameart.org/content/rigged-textured-mage
+
+~11k tris (one mesh)
+
+2k tex (color, specular, normal)
+
+
+Just a test to see how much I can make in 5 days - hope I'll be usefull to someone.
+
+Special thanks for Julius for his OGA rig :)

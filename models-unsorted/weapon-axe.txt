@@ -1,0 +1,5 @@
+Author: Svenstaro
+License: GPL3
+Origin: http://opengameart.org/content/bloodstained-axe
+
+An axe I once textured for the OpenFrag project. It is textured, unwrapped and ready to use.

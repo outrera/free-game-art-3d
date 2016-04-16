@@ -1,0 +1,20 @@
+Author: thecubber (http://opengameart.org/users/thecubber)
+License: CC-BY-SA 3.0
+Origin: http://opengameart.org/content/rigged-textured-elven-archer
+
+Polycount (about):
+8.5k tris body
+3.5k tris head
+2.5k tirs bow
+700 tris hair
+
+Tex:
+body 2k
+head 1k
+bow 1k
+hair 512x512px
+
+Just a simple evlen archer:)
+btw. shaders are blender specific (skin has a fake sss and cloth uses ramp for specular)
+
+Special thanks for Julius for his OGA rig :)

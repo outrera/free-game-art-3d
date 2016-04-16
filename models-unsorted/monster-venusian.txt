@@ -1,0 +1,16 @@
+Author: thecubber (http://opengameart.org/users/thecubber)
+License: CC-BY-SA 3.0
+Origin: http://opengameart.org/content/open-tempest-3d-venusian-model-textured
+
+My entry for Open Tempest contest.
+
+ 
+
+Venusian 3d model
+
+3102tris
+
+512px tex for body, 256px for wings (with alpha)
+
+Also I added another skin variation and layered .xcf files (all in 2k)
+

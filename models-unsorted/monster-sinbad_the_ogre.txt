@@ -1,0 +1,45 @@
+Author: Zi Ye
+License: CC-BY-SA
+Origin: http://opengameart.org/content/sinbad-the-ogre
+
+Sinbad is the mascot for the Ogre 3D Rendering Engine, (which is itself under the MIT license).  
+
+Sinbad was created by a friend of mine named Zi Ye.  Zi created Sinbad in Blender and released him under the Creative Commons Attribution-Share Alike License.
+
+Recently I converted Sinbad to Maya,  and so i thought OGA would be a good place to host both versions of the source content.
+
+Here is a video of Sinbad's dance animation.
+
+Here is a video of an interactive Sinbad realtime in the Ogre Engine.
+
+ 
+
+Basically he is a great resource to have when you need a character to start testing functionality in your game.
+
+ 
+
+ 
+
+Here is the license as stated by Zi (a copy of which is included in the downloads):
+
+ 
+
+This work is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported License.
+
+To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a
+
+letter to Creative Commons, 171 Second Street, Suite 300, San Francisco, California, 94105, USA.
+
+ 
+
+This character is a gift to the OGRE community (http://www.ogre3d.org).
+
+You do not need to give credit to the artist, but it would be appreciated. =)
+
+ 
+
+PS
+
+Included in each .zip is the .mesh version as well,  which is the native format of the Ogre 3D engine.
+
+If you plan to use the Maya version and intend to use it with Ogre 3D, keep in mind it is set up to be exported using The LFA Scene Manager,  this way all the animations are delineated for you along the timeline.

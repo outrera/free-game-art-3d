@@ -1,0 +1,12 @@
+Author: Thomas "Zweitholou" Boyster (http://www.tempestintheaether.org/)
+License: CC-BY-SA 3.0
+Origin: http://opengameart.org/content/open-tempest-3d-swarm-phase-venusian
+
+My entry for the Open Tempest 3D Contest.  This Venusian has developed the body characteristics typical of Swarm phase, which is activated genetically when the threat to the hive is great enough, be it an aggressor or a lack of food. 
+
+The zip contains the .blend, a diffuse, spec, and normal texture all at 2k by 2k, and an xcf with the layers mastered at 4k by 4k.  The xcf didn't import all the colors and adjustments perfectly from the original psd, so the pngs are best to use.  Just over 7.5 k tris.
+
+All textures based on photos taken by myself.
+
+Attribution Instructions: 
+By Thomas "Zweitholou" Boyster.

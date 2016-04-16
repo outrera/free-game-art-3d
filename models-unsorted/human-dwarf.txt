@@ -1,0 +1,27 @@
+Author: thecubber (http://opengameart.org/users/thecubber)
+License: CC-BY 3.0, CC-BY-SA 3.0, GPL 3.0, GPL 2.0
+Origin: http://opengameart.org/content/rigged-textured-barbarian
+
+A rigged, textured model of a dwarf, commissioned by OGA.
+
+Attribution info:
+
+Model by thecubber, commissioned by the OpenGameArt.org community
+You must include a link to http://opengameart.org with your attribution of this model
+By request, two versions have been included:  One for Blender 2.49 and one for Blender 2.5x.
+
+One of our users has made some additions and updates to this model.
+
+Copyright/Attribution Notice: 
+Model by thecubber, commissioned by the OpenGameArt.org community (http://opengameart.org)
+
+"Changes by MrBeast:
+Replaced the lighting setup with a different (better) one.
+Fixed many texture parameters.
+Made armor "tintable". You can choose the basic color by simply changing the color of the material, the secondary color can be changed by changing the color under "RGB to intensity" of the "armor_diff" texture. Clothing is also tintable, however there is only a primary color.
+Added a texture to the beard.
+Changed the skin color a bit.
+Made an less arkward color scheme default.
+
+Note:
+This is for Blender 2.5."

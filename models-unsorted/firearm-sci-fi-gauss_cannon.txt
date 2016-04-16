@@ -1,0 +1,3 @@
+Author: Svenstaro
+License: GPL3
+Origin: http://opengameart.org/content/gauss-cannon

@@ -1,0 +1,13 @@
+Author: Morgan Strauss 'nubux' (http://morganstrauss.blogspot.ca/)
+License: CC-BY 3.0
+Origin: http://opengameart.org/content/night-demon
+
+A night demon made for OGA.
+
+-1520 faces
+
+-Color map, specular map, normal map.
+
+-One version is not rigged, in T-pose.
+
+-The other version is rigged with the Blender experimental Rigify auto-rig tool because I don't know how to make a good rig so it might not be perfect.

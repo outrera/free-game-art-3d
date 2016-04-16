@@ -1,0 +1,6 @@
+Author: jpsweber
+License: Public Domain (CC0)
+Origin: http://opengameart.org/content/golf-ball
+
+High-poly golf ball.
+

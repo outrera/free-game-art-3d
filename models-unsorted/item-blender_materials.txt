@@ -1,0 +1,5 @@
+Author: nosweat
+License: Public Domain (CC0)
+Origin: http://opengameart.org/content/blender-material-presets
+
+Just a feww materials that might come in handy.

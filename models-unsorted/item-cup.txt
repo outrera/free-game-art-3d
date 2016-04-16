@@ -1,0 +1,5 @@
+Author: Samuel Moxham
+License: Public Domain (CC0)
+Origin: http://opengameart.org/content/fancy-cup
+
+Just a fancy cup using blender internal rendering.

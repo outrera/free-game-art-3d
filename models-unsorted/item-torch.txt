@@ -1,0 +1,5 @@
+Author: jpsweber
+License: Public Domain (CC0)
+Origin: http://opengameart.org/content/torch
+
+Low-Poly torch

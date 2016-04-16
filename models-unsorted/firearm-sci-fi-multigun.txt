@@ -1,0 +1,5 @@
+Author: Svenstaro
+License: GPL3
+Origin: http://opengameart.org/content/multi-gun
+
+A somewhat unorthodox gun. Untextured but rigged.

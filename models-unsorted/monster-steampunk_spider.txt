@@ -1,0 +1,27 @@
+Author: Morgan Strauss 'nubux' (http://morganstrauss.blogspot.ca/)
+License: CC-BY 3.0
+Origin: http://opengameart.org/content/steampunk-spider
+
+Done for the late "steampunk challenge" but I spent too much time on it !
+
+A nasty leprechaun is driving the spider.
+
+The idea is that it's a small unit (about 1.5 meter high) but I did not pay attention to the proportions in Blender.
+
+Could be useful for a strategy game.
+
+--
+
+++I used p0ss rusted texture pack .++
+
+-Blender file
+
+-3404 vert, 3402 faces.
+
+-1 normal map (*2048).
+
+-2 ColorMaps (the same are used for specular)(*2048).
+
+-rigged (can be improved)
+
+-One idle animation (fr 0->20), I 'll do some more later.

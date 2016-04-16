@@ -1,0 +1,13 @@
+Author: Morgan Strauss 'nubux' (http://morganstrauss.blogspot.ca/)
+License: CC-BY 3.0
+Origin: http://opengameart.org/content/ogre-lowpoly
+
+This is a coarse low poly model of an ogre.
+
+I made it a long time ago ...
+
+-Not rigged.
+
+-3 textures(.tga) head, body and legs.
+
+Please, feel free to improve it and use it as you like.

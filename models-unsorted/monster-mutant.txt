@@ -1,0 +1,16 @@
+Author: thecubber (http://opengameart.org/users/thecubber)
+License: CC-BY-SA 3.0, GPL 3.0, GPL 2.0
+Origin: http://opengameart.org/content/rigged-textured-mutant
+
+Info:
+
+Polycount: ~ 5k tris (body and armor)
+
+Tex: armor 1k (diff, normal, spec), 512 environment
+
+body 1k (diff, normal, spec)
+
+Mutant inspired by Rage and other Id games.
+
+Special thanks for Julius for his OGA rig :) 
+

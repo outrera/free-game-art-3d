@@ -1,0 +1,5 @@
+Author: Oblivion (http://astepintooblivion.deviantart.com/)
+License: GPL2, GPL3
+Origin: http://opengameart.org/content/ubot
+
+UBot, by Oblivion.  In 3ds, obj, and max formats.  Low-poly.  Fully textures, with normal, bump, and specular maps.

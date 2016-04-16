@@ -1,0 +1,15 @@
+Author: thecubber (http://opengameart.org/users/thecubber)
+License: CC-BY 3.0, CC-BY-SA 3.0, GPL 3.0, GPL 2.0
+Origin: http://opengameart.org/content/rigged-textured-executioner
+
+A rigged, textured model of of an executioner, commissioned by OGA.
+
+Attribution info:
+
+Model by thecubber, commissioned by the OpenGameArt.org community
+You must include a link to http://opengameart.org with your attribution of this model
+
+Copyright/Attribution Notice: 
+Model by thecubber, commissioned by the OpenGameArt.org community (http://opengameart.org)
+
+"Note: Like with all models from thecubber here the normals upside down. To fix that you'll need to move the "Normal"-slider of every normal texture from +1 to -1"
