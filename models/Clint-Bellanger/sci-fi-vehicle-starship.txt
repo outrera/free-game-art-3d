@@ -1,0 +1,7 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: Public Domain (CC0)
+Origin: http://opengameart.org/content/starship-corvette
+
+Corvette class starship
+
+Basically a WIP.  Still needs more detail, then mapping, textures, rigging.

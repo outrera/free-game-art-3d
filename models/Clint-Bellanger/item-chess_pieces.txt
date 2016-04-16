@@ -1,0 +1,5 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: Public Domain (CC0)
+Origin: http://opengameart.org/content/chess-pieces-0
+
+Low poly chess pieces shaped to have sort of a "hand carved" style.

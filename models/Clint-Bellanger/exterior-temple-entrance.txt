@@ -1,0 +1,7 @@
+Author: Sindwiller, Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: GPL2, GPL3, CC-BY-SA
+Origin: http://opengameart.org/content/temple-entrance
+
+Simple entrance to an underground temple.  Sized to take up 4x4 tiles at a 64x32 base tile size.
+
+Texture from http://opengameart.org/content/outdoor-stone-floor by Sindwiller.  Sindwiller has given me permission to use this also under GPL 2.0 for use in my game OSARE.

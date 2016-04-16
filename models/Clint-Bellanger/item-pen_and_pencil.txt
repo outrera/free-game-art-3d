@@ -1,0 +1,11 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: Public Domain (CC0)
+Origin: http://opengameart.org/content/pen-and-pencil
+
+Very low poly graphite pencil and ballpoint pen.  64x64 diffuse textures packed in.
+
+Pencil: 60 tri
+
+Pen: 60 tri
+
+Cap: 46 tri

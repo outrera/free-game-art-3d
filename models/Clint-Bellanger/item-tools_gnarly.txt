@@ -1,0 +1,22 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY
+Origin: http://opengameart.org/content/gnarly-tools
+
+A set of gnarly medieval tools in 3D. Created in Blender.
+
+Comes with one texture that works for all the tools.
+
+Very low polygon. Each one is around 100 faces.
+
+Included:
+Claw Hammer
+Hatchet
+Sickle
+Kama
+Sledge Hammer
+Shovel
+Pitchfork
+Hoe
+Scythe
+Pickaxe
+Heavy Axe

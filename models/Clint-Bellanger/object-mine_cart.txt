@@ -1,0 +1,8 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY
+Origin: http://opengameart.org/content/mine-cart-set
+
+Simple mine cart set.  Low poly.  4 sections of track (2m x 1m straight and 2m x 2m curve, split left/right).
+
+Textures are public domain from the Blender Texture CD.
+

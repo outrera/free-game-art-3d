@@ -1,0 +1,9 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY
+Origin: http://opengameart.org/content/fireball-spell
+
+Fireball Spell
+
+8 frames, 8 directions.  64x64 per frame, isometric (2:1) perspective.  Alpha layer, should work on any background.
+
+Also attached is the .blend file used to generate these sprites.

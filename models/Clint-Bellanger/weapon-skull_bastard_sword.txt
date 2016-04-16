@@ -1,0 +1,15 @@
+Author: Misha, Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY
+Origin: http://opengameart.org/content/skull-bastard-sword
+        http://opengameart.org/content/bastardsword001-concept
+
+3D render of "Bastardsword_001 Concept" by Misha
+
+http://opengameart.org/content/bastardsword001-concept
+
+Contains a 125 poly sword with 256x256 and optional 1024x1024 normal maps.  Also contains the 750 poly sword used to bake those normals.
+
+Additional QuickTime preview of the high poly sword (drag the play cursor back and forth to rotate the model, or set the video to Loop) http://clintbellanger.net/images/sword.mov
+
+Attribution Instructions: 
+Concept by Misha. Model by Clint Bellanger

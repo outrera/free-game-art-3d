@@ -1,0 +1,9 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: Public Domain (CC0)
+Origin: http://opengameart.org/content/low-poly-stairs
+
+A quick & dirty stairs up.  For roguelikes or 2.5D action rpgs where level-connecting stairs can appear anywhere.
+
+Made for the 15-minute challenge.  I also threw in a matching stairs-down that was not part of the 15 minute time limit.
+
+UV unwrapped, no texture included.

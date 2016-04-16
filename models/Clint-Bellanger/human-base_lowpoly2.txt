@@ -1,0 +1,10 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: Public Domain (CC0)
+Origin: http://opengameart.org/content/very-low-poly-human
+
+Very Low Poly Human (246 tri).  Rigged, not unwrapped.
+
+I wanted to see how low I can get with poly count and still have a usable rigged model.  Made this in a couple hours.  Maybe it'll be useful for placeholder art, making better models, or rendering thousands of tiny/background humans.
+
+I release all copy rights and dedicate this model to the Public Domain.
+

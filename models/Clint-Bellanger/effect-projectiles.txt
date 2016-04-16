@@ -1,0 +1,12 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY
+Origin: http://opengameart.org/content/projectiles
+
+Set of three projectiles for my RPG.
+
+64x64, isometric view
+- Arrow (single frame, eight directions)
+- Crude Spear (single frame, eight directions)
+- Bola (4 frame rotation, non-directional)
+
+Also included is the .blend file.

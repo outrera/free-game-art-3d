@@ -1,0 +1,13 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY
+Origin: http://opengameart.org/content/cubicle-mini-tile-set
+
+Welcome to Cubicle-land! Just a mini tile set to spur the imagination.
+
+Set of 32 cubicle wall tiles to make small offices. Comes with a simple set of 16 carpets for handling desk shadows. Office char in 8 directions.
+
+See attached .zip file which contains the Blender files and Tiled sample map.
+
+Compatible with Flare.
+
+If you would like to use this art under different terms please contact me.

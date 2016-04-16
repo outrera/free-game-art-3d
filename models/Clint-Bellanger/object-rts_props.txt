@@ -1,0 +1,12 @@
+Author: Lamoot, Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY
+Origin: http://opengameart.org/content/rts-medieval-props
+        http://opengameart.org/content/medieval-props-textured
+
+I unwrapped and put a basic texture on these models by Lamoot: http://opengameart.org/content/rts-medieval-props
+
+The textures are all from public domain sources: Blender Texture CD for the wood, pdtextures blog for the stone, and this collection for the well roof and stonework: http://opengameart.org/content/wall-grass-rock-stone-wood-and-dirt-480
+
+Be sure to credit Lamoot for these models.
+
+(Not submitted in time for the OGA Remix)

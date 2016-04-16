@@ -1,0 +1,11 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY
+Origin: http://opengameart.org/content/low-poly-mushrooms
+
+Low poly (184 tri each) mushrooms.  Should be useful for terrain decoration.  I created three variations of medium, tall, and flat.
+
+They all use the same UV mapping (simple cylinder UV) so they're easy to paint.  I've included the base cylinder I used to create these mushrooms (it's pretty easy to make more), plus the one I used to do texture baking.
+
+Basically I created a cylinder and did the UV mapping first.  Then I reshaped the face loops to make the mushroom shapes.  I used an 8-sided cylinder and 8 vertical sections.  I always used the bottom face loops for the stem, so that they could share the same UV textures.
+
+(edit) added red with white spot mushroom texture as a preview

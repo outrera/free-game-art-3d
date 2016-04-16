@@ -1,0 +1,8 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY
+Origin: http://opengameart.org/content/stone-and-wood-barricade
+
+Stone and wood barricade.
+
+Modular: contains three different shapes of base plates, a single fence post, and a single wood connector.  Very low poly.  Color and Normal maps included.
+

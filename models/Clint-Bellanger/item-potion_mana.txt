@@ -1,0 +1,13 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY
+Origin: http://opengameart.org/content/health-and-mana-potion
+
+Set of two potions: Health and Mana.
+
+Designed for 2D inventory icons, but they could be usable in 3D. The glass material is set up to look good in Blender's default renderer, so that will probably need to be changed to use in a 3D game. They're UV unwrapped but use Blender procedural textures.
+
+The attached renders are done at 256x256. For most inventory icon usage, these can easily be scaled down to the desired size. They still look good as low as 32x32.
+
+Health Potion: 1276 tris (the render uses 1 level of subsurf)
+
+Mana Potion: 922 tris

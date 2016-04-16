@@ -1,0 +1,29 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY
+Origin: http://opengameart.org/content/dinnerware
+
+Low-poly dinnerware.  I created these with medieval table decorations in mind, but they may be useful for other settings.
+
+Contains:
+- Cup
+- Bowl
+- Plate
+- Tankard
+- Goblet
+- Wine Bottle
+- Jug
+- Pitcher
+- Platter
+- Fork
+- Knife
+- Spoon
+
+And in these materials
+- Terracotta
+- Silver
+- Wood
+- Glass (Blender raytracing only)
+
+I've included 256x256 diffuse for terracotta, silver, and wood.  Also included 256x256 normal for terracotta and silver.
+
+The wine bottle comes with dark glass and cork procedural textures.

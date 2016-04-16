@@ -1,0 +1,9 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY
+Origin: http://opengameart.org/content/flagstone-floor-tiles
+
+Simple isometric flagstone floors.  32 unique tiles of size 64x32.
+
+Includes tiles with cracks to add a nice subtle variance.
+
+The .zip includes the Blender file used to create these. Tutorial on how I make these kind of tiles: http://clintbellanger.net/rpg/tutorials/isometric_tiles/

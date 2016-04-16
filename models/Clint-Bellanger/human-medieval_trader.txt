@@ -1,0 +1,9 @@
+Author: TiZiana (http://www.unbruco.it/offcircle/index_en.html)
+License: CC-BY
+Origin: http://opengameart.org/content/wandering-vendor-npc
+        http://opengameart.org/content/undead-male
+
+Flare's first NPC!  A rendering of the lovely Undead Male by TiZiana.  Please only credit TiZiana.
+
+A slight swaying stance animation.  Frames are 32x64.  The offset from the top-left of a frame to the centerpoint between his feet is 14x56.  Two versions (facing left or right).
+

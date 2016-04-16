@@ -1,0 +1,15 @@
+Author: Sindwiller, little killy, Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: GPL3, CC-BY-SA
+Origin: http://opengameart.org/content/rusty-ship
+
+Beaten up old space ship.
+
+Ship model from "little killy" http://opengameart.org/content/space-ship-3d2d (CC-BY)
+
+Texture from "Sindwiller" http://opengameart.org/content/rusty-metal-floor-texture (GPL 3 and CC-BY-SA)
+
+I added edge splits to the spaceship model so that a more realistic texture could be applied.  I used Sindwiller's texture with little changes.  The blue color is on the Trim texture (the color of the Musgrave layer) and the spec color of the Cockpit texture.  Should be easy to change if you want color-coded units.
+
+Could work as a unit in a space RTS or a starter ship in a space RPG.
+
+Made for the "Mood Swing" weekly challenge (Killy's original ship is very cartoony and whimsical).

@@ -1,0 +1,13 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY
+Origin: http://opengameart.org/content/quake-spell
+
+Quake spell
+
+Isometric.  256x128, 6 frames.
+
+Earthquake, Ice Quake, and Fire Quake variations.
+
+.blend files also attached.
+
+(edit) cleaned up version that reads better

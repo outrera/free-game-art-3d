@@ -1,0 +1,9 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY
+Origin: http://opengameart.org/content/tombwoof-tiles
+
+Tomb/Sarcophagus tiles.  These will take up a 2x1 size area where the base tile size is 64x32 (e.g. for OSARE).
+
+Model by Hythlodaeus: http://opengameart.org/content/tombwoof (released under CC-BY 3.0, so please give him credit also).
+
+UV unwrapped .blend attached.

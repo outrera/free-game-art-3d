@@ -1,0 +1,14 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: Public Domain (CC0)
+Origin: http://opengameart.org/content/rope-fence
+
+Simple low-poly rope fence.
+
+Included are:
+- 3 premade, manifold fences: one regular and two irregular styles
+- Individual fence posts and rope segments so that you can make your own fence
+- Fence posts use a common color map.  Rope uses a common diffuse and normal map
+The rope looks good but uses very little resources.  Each segment is a 6-sided cylinder with a 64x64 normal + diffuse map, repeated along the length).  Each premade fence included is just over 200 poly.
+
+If you want a rope fence on varying elevation or at a curve you'll have to piece it together from the parts; or, contact me and I might be able to help.
+

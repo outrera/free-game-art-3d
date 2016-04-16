@@ -1,0 +1,11 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY
+Origin: http://opengameart.org/content/food-pack-cooking
+
+Food Pack with a cooking theme.
+
+Each is UV unwrapped and come with a packed 128x128 diffuse map.  The bell pepper also has a normal map (to make it look a bit lumpy/irregular)
+- Bell Pepper (150 tri)
+- Onion (120 tri)
+- Garlic (140 tri)
+- Tomato (138 tri)

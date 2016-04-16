@@ -1,0 +1,16 @@
+Author: naraphim (http://naraphim.deviantart.com), Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: GPL2, GPL3, CC-BY-SA
+Origin: http://opengameart.org/content/naraphim-sword-1
+
+Sword based on concept art by naraphim (see Additional Preview below for the concept)
+
+http://naraphim.deviantart.com/art/Weapon-Set-Complete-2007-73660253
+
+(top row, all the way to the left)
+
+1298 tris.  If someone wants the sword lower poly let me know, I can bake the details onto a lower poly model.
+
+Manifold mesh, UV unwrapped but not textured.
+
+Day one of my "Thing a Day" challenge.
+

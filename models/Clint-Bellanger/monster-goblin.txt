@@ -1,0 +1,7 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY
+Origin: http://opengameart.org/content/goblin
+
+Low poly goblin for OSARE
+
+8 directions, 48 frames per direction (stance, hop, charge, attack, throw, block, hit, die, crit-die).

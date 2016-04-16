@@ -1,0 +1,8 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY
+Origin: http://opengameart.org/content/quarterstaff
+
+Quarterstaff I made a while back, when learning Normal Maps.  This is the "high poly" version which is about 1000 tris.
+
+The way I make those "carved wood" sections is by combining Blender tools "Fractal" and "Decimate".
+

@@ -1,0 +1,34 @@
+Author: Justin Nichol, Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY-SA
+Origin: http://opengameart.org/content/wyvern-1
+
+Wyvern sprites in isometric view. Created for Flare.
+
+Model and Animations by Clint Bellanger. Diffuse Texture by Justin Nichol (please credit us both for the attribution requirement of CC-BY-SA 3.0).
+
+The wyvern proportions/structure inspired by this excellent concept art by Sarah Benalene.
+
+Sprite Info:
+
+Rendered at 256x256 per frame, 8 directions. I've included 7 animations at 8 frames each:
+
+Hover (Animation Preview)
+Fly (Animation Preview)
+Sting
+Breathe
+Ram
+Hit
+Die
+Attached is a composite wyvern (model + shadows) and sheets with the shadow separated.
+
+3D Info:
+
+Diffuse texture 2048x2048
+1436 Tris
+The 3D model should be finished enough to be useful in some 3D games. If you make tweaks to the 3D model to get it 3D game-ready, please remember to Share-Alike. Thanks!
+
+If you would like to use this art under different terms, please contact us.
+
+(UPDATE)
+
+Additional skin types added.

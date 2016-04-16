@@ -1,0 +1,9 @@
+Author: D. Sharon Pruitt, Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY
+Origin: http://opengameart.org/content/studded-belt
+
+Studded leather belt.  Made as an icon base for OSARE's magic belts.
+
+Leather texture by D. Sharon Pruitt http://www.flickr.com/photos/pinksherbet/3005071597/ (CC-BY licensed)
+
+Metal texture public domain (Blender Texture Disc)

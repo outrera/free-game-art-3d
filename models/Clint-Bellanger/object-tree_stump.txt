@@ -1,0 +1,15 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY
+Origin: http://opengameart.org/content/tree-stump
+
+Entry for the Apr 9th Friday Challenge.  Theme: Touch of Nature! http://opengameart.org/forumtopic/friday-challenge-apr-9-2010-touch-of-nature
+
+A simple low-poly tree stump! (the stump itself is 98 tris)
+
+Diffuse texture is 512x512
+
+Bark derived from this texture http://opengameart.org/content/tree-bark-texture and is copyright Blender Foundation | apricot.blender.org
+
+Top-facing wood is public domain from the Blender Texture CD
+
+I added a hatchet for flavor, from my older set: http://opengameart.org/content/gnarly-tools

@@ -1,0 +1,5 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: Public Domain (CC0)
+Origin: http://opengameart.org/content/gift-box
+
+Low poly gift box and lid.

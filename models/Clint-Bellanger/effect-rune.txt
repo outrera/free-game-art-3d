@@ -1,0 +1,13 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY
+Origin: http://opengameart.org/content/teleport-rune
+
+Simple teleport rune for my RPG.
+
+Isometric view, 64x64, 4 frames.
+
+Process: I created the simple mesh for the rune and gave it that bright green color.  I added a IPO curves to alter the Rotation of the object and Alpha of the material.  Finally I rendered using motion blur.  .blend file attached.
+
+(Update)
+
+Added two more in similar style.  I'm using these other two for Berzerker stance and Guardian stance.

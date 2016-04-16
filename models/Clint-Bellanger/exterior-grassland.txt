@@ -1,0 +1,40 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY-SA
+Origin: http://opengameart.org/content/grassland-tileset
+
+Grassland tile set for Flare. Over 200 tiles for a 64x32 base isometric tile grid.
+
+Tiles include:
+
+grass, worn stone path, cliff walls, rocky streams, wood piles, bonfire, anvil, fences, weeds, plants, shrubs, trees, signposts, gravestones, canoes, wharfs, bridges, docks, cabins, houses, tents, and more.
+
+Many pieces of CC-BY and CC-BY-SA art were used to create this set. Please properly attribute all contributing artists.
+
+ARTISTS (attribution required by CC-BY-SA 3.0 or CC-BY 3.0)
+- Clint Bellanger
+- Lamoot
+- Blender Foundation | apricot.blender.org
+- lattice
+- p0ss
+- Bart K. | OpenGameArt.org
+- Sindwiller
+
+See CREDITS.txt for detailed citations (inside the blends zip file). OpenGameArt.org assets used in this tile set:
+
+http://opengameart.org/content/medieval-props-textured
+http://opengameart.org/content/low-poly-plants
+http://opengameart.org/content/gum-tree
+http://opengameart.org/content/3-dead-trees
+http://opengameart.org/content/seamless-tiling-tree-bark-texture
+http://opengameart.org/content/old-brick-wall
+http://opengameart.org/content/wood-apple-crate
+http://opengameart.org/content/grass-texture
+http://opengameart.org/content/rusted-metal-texture-pack
+http://opengameart.org/content/tilling-texture-pack-13
+http://opengameart.org/content/45-high-res-ground-texture-photos
+http://opengameart.org/content/temple-entrance
+http://opengameart.org/content/outdoor-stone-floor
+http://opengameart.org/content/tree-stump
+http://opengameart.org/content/broken-tower
+http://opengameart.org/content/gnarly-tools
+To use the tile set in Tiled v0.8, get the necessary files from the Flare git repo: https://github.com/clintbellanger/flare-game/tree/master/tiled/grassland

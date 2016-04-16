@@ -1,0 +1,9 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY
+Origin: http://opengameart.org/content/freeze-spell
+
+Freeze Spell for my RPG.
+
+64x64 frames, 3 variations, 4 frames.  To be spawned in a line as shown in the preview image, and animated using the frame order 1,4,3,2,1.
+
+Includes a "fire" variation.  Blender file attached.

@@ -1,0 +1,11 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY
+Origin: http://opengameart.org/content/potions
+
+Low-poly potions!
+
+Mana (blue), Health (red), and Empty versions of each.
+
+From left to right: Tube, Vial, Potion, Bomb, Flask, Jar, Elixir
+
+UV Unwrapped.  Rendered here using Blender raytrace glass.

@@ -1,0 +1,9 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: Public Domain (CC0)
+Origin: http://opengameart.org/content/paper-airplane
+
+Simple paper airplane.
+
+I decided to model it as if I were actually folding the paper.  In Blender I started with a Letter/A4 sized plane.  I used my 3D cursor as rotation point and split edges to make new creases.  When I did a UV-unwrapped it unfolded the paper perfectly.  In GIMP I created a very simple "lined-paper" image and the result is fun.
+
+I might be busy tomorrow so this is my Thing-A-Day for July 3rd!

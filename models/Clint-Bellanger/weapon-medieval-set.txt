@@ -1,0 +1,8 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY-SA
+Origin: http://opengameart.org/content/kingdom-weapon-set
+
+A straightforward medieval weapon set, with a practical style that would be mass-produced for soldiers.
+
+The longsword is based off the drawing Weapon Set Complete 2007 by naraphim at deviantArt -- used with permission. Tech details: Created in Blender. Click the download button for the .blend file. Low Poly (each weapon is about 80-130 faces). Contains UV mapping but I didn't include textures.
+

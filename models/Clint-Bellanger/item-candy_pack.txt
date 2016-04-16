@@ -1,0 +1,22 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: Public Domain (CC0)
+Origin: http://opengameart.org/content/candy-pack
+
+Everybody loves Candy! Feel free to use these in your own game saga.
+
+Made especially for The Candy Jam http://thecandyjam.com/
+
+Includes four iconic pieces of candy.
+- Lollipop Globe (red) 432 tris, diffuse and normal
+- Lollipop Disc (green) 316 tris, diffuse and normal
+- Chocolate Square 76 tris, diffuse
+- Peppermint 128 tris, diffuse
+
+For the lollipops I use two materials. I keep the candy part separate so it's really easy to swap out for a different color.
+
+Blender format with PNG textures.
+
+(edit) updated license to CC0. This stuff is pretty simple, so I'm just going to waive attribution. Use freely!
+
+Attribution Instructions: 
+Completely optional. You can mention my name (Clint Bellanger) or a link to my website (clintbellanger.net).

@@ -1,0 +1,22 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY-SA
+Origin: http://opengameart.org/content/iron-buckler
+
+A low-poly iron buckler for Flare
+
+512px diffuse, spec, normal
+
+716 tris
+
+Handle and arm strap not included; there is room in the texture space to add them though. Also, the front of the shield has about 50% more pixel density than the back. I figure this is acceptable because in many games you'd be seeing the front of the shield 95% of the time.
+
+It's a bit "pristine" right now, I'll probably make another beat up version with worn edges and combat dents.
+
+Turntable preview here: http://www.youtube.com/watch?v=J21RSLUVSCw
+
+Metal texture CC0 by Duion http://opengameart.org/content/syntmetal01
+
+Wood texture Public Domain from Blender Texture CD http://schools.spsd.sk.ca/mountroyal/Hoffman/blender/blendertextures/tex...
+
+Attribution Instructions: 
+Just put my name "Clint Bellanger" somewhere with the rest of the credits. Optionally you may link to this page, or to http://flarerpg.org or to http://clintbellanger.net

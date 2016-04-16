@@ -1,0 +1,8 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY
+Origin: http://opengameart.org/content/wood-apple-crate
+
+Simple wooden "apple" style crate.  Lid is a separate mesh but both parts use the same diffuse texture.
+
+146 faces (284 tris).  512x512 diffuse.
+

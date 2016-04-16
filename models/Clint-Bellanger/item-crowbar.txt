@@ -1,0 +1,7 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: Public Domain (CC0)
+Origin: http://opengameart.org/content/crowbar
+
+Low-poly crowbar.
+
+Blender (.blend) format.

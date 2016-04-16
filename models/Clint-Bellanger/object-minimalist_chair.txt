@@ -1,0 +1,11 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY
+Origin: http://opengameart.org/content/minimalist-chair
+
+A simple minimalist wood chair.
+
+Tech notes:
+
+Manifold, low poly (316 tri and 172 tris versions), edge split.
+256x256 wood diffuse texture (public domain from the Blender Texture CD) packed
+I created it flat, unwrapped it, then curved the wood into place.

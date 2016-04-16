@@ -1,0 +1,20 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY
+Origin: http://opengameart.org/content/eukaryotic-organelles
+
+Eukaryotic Organelle tiles, with attached Blender file used for rendering (see the .zip)
+
+I think a Tower Defense type game using parts of a cell and ATP as the resource would be a great way for kids to learn about cells.
+
+Included are:
+- Rough and Smooth Endoplasmic Reticulum
+- Chloroplast
+- Mitocondrion
+- Nucleus
+- Vacuole
+- Golgi Apparatus
+
+For the weekly challenge "Educational Science"!
+
+That preview is made with Tiled.  Use 128x64 grid size and 128x96 tile size if you're interested in trying that out.
+

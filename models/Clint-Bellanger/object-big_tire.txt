@@ -1,0 +1,12 @@
+Author: Mr. Thinktank, lostandtaken, Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License:http://opengameart.org/content/big-tire
+
+Large nobby tire, useful for making vehicles or piling up in junkyards.
+
+The mesh is manifold and has 1008 tris.  The packed texture is 512x512 and isn't perfect (you can see evidence of my seams, smudging/cloning).
+
+The original textures are both CC-BY from Flickr
+side view: Mr. Thinktank http://www.flickr.com/photos/tahini/4048609570/
+tread view: lostandtaken http://www.flickr.com/photos/27668445@N03/3191999320/
+
+Watch it spin here http://www.youtube.com/watch?v=osovpNRypTA

@@ -1,0 +1,5 @@
+Author: Anonymous
+License: GPL2, GPL3, CC-BY-SA
+Origin: http://opengameart.org/content/vase
+
+A vase with textures and some lights.

@@ -1,0 +1,13 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: Public Domain (CC0)
+Origin: http://opengameart.org/content/bed-low-poly
+
+Simple low-poly bed.
+
+Three meshes:
+- Bed 122 tris (floor-facing facets removed)
+- Blanket 18 tris with baked normal map
+- Pillow 64 tris
+
+Two packed textures are from the public-domain Blender Texture CD.
+

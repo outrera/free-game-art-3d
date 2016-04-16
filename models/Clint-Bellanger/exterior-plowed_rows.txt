@@ -1,0 +1,9 @@
+Author: Lamoot, Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY
+Origin: http://opengameart.org/content/plowed-rows
+
+Empty plowed rows.  Three pieces: a middle segment and two end segments.  Each piece is 1m square and has two rows.  Seamless.  Diffuse and normal maps packed in.  Low poly.
+
+For Taldor and Radakan: http://opengameart.org/forumtopic/crop-field-3d-model-for-radakan
+
+Dirt texture by Lamoot: http://opengameart.org/content/dirt-004 (released under CC-BY so please give Lamoot credit).

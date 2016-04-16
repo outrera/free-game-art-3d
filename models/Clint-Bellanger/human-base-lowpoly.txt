@@ -1,0 +1,15 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY
+Origin: http://opengameart.org/content/base-human-models-low-poly
+
+Here are my base human models.  I use them for pre-rendered art for 2D games (isometric RPGs and side scrollers), where the low poly count isn't a factor.
+
+The models use all quads -- this makes some tasks easier: subdividing, adding loops, sculpting, etc.  Each model has 408 quads and a very basic UV mapping.  Units = meters.
+
+The rigging uses simple vertex groups.  The hands use only enough rigging to pose fists or weapon grips.  Because of the low poly count, some extreme poses will leave messy joints.  The male/female faces have no details and the foot is as if wearing shoes (i.e. the toes aren't modeled).  The bodies have very basic proportions (heroes might be taller and more muscular).
+
+Blender format.
+
+(Update 2012-11-24)
+
+Updated the license to CC-BY 3.0

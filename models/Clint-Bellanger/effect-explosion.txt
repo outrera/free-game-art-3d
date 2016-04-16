@@ -1,0 +1,11 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY
+Origin: http://opengameart.org/content/fire-spell-explosion
+
+Explosion I'm using for a fire spell in my RPG.
+
+12 frames, 256x128px per frame.
+
+Created in Blender with simple particle effects.
+
+See also, ice nova version

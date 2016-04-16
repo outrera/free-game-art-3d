@@ -1,0 +1,7 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY
+Origin: http://opengameart.org/content/netted-jar
+
+Low-poly netted jar.  About 200 polygons.  256x256 diffuse, normal, and specular maps.
+
+Created with Blender and GIMP.

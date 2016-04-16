@@ -1,0 +1,9 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY, LGPL 2.1, LGPL 3.0
+Origin: http://opengameart.org/content/programmer-npc
+
+Here's me as an NPC for Flare.  For the weekly challenge Get In The Game!
+
+It's me just standing with my laptop.  Lightly animated (swaying slightly, moving my arm as if typing, and the laptop screen gives a slight flickering glow).
+
+Created in Blender, based mostly on my existing works http://opengameart.org/content/laptop and http://opengameart.org/content/base-human-models-low-poly ... See the attached .zip for the Blend (rigged, solid colors instead of textures, not UV mapped).

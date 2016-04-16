@@ -1,0 +1,21 @@
+Author: Misha, Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY
+Origin: http://opengameart.org/content/skeleton-warrior
+        http://opengameart.org/content/skeleton-warrior-0
+
+Skeleton Warrior
+
+Low poly 3D model rigged and animated for use in pre-rendered 2D sprites.  Because I'm only using them for small renders, they're not "finished" for use in 3D games (no UV maps, the mesh could be better optimized, etc).
+
+Comes with these animations:
+- Stance (4 frames)
+- Walk (8 frames)
+- Attack (4 frames)
+- Cast (4 frames)
+- Block (2 frames)
+- Hit and Die (6 frames)
+- Aim Crossbow (4 frames)
+
+Python script included to render in 8 directions.
+
+Includes the sword listed here http://opengameart.org/content/skull-bastard-sword which is a derived from the original concept sketch by Misha http://opengameart.org/content/bastardsword001-concept

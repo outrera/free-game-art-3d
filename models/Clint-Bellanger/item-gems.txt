@@ -1,0 +1,11 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY
+Origin: http://opengameart.org/content/gems
+
+Set of 4 gems
+- Round cut Sapphire
+- Princess cut Diamond
+- Emerald cut Emerald
+- Teardrop cut Ruby
+
+Note, the cuts are an oversimplification and aren't exactly like real world cuts.  But they should do fine in most video game situations.

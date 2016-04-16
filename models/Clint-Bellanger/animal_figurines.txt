@@ -1,0 +1,27 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY-SA
+Origin: http://opengameart.org/content/animal-figurines
+
+Created for Flare
+
+These animal figurines are used in Flare to boost a core stat. The animal and paint markings are thematic to the stat.
+- Bear = strength = red
+- Owl = intellect = blue
+- Cat = agility = yellow
+- Turtle = defense = green
+
+These are very low-poly models that I used to generate simple icons and item previews. I don't mind the very low-poly look here because it helps give it a rough "wood carving" look. Specs:
+
+- About 200 tris each
+- Diffuse texture 256x256px
+- Emit glow texture 256x256px
+- Paint and unpainted versions included
+- UV mapped
+- Not rigged, and not really designed with rigging in mind
+
+Please contact me if you'd like to use these under different terms. I'm happy to help small/indie projects.
+
+[update] Added unpainted 512x512 alpha renders of each figurine
+
+Attribution Instructions: 
+Just put my name "Clint Bellanger" somewhere with the rest of the credits. Optionally you may link to this page, or to http://flarerpg.org or to http://clintbellanger.net

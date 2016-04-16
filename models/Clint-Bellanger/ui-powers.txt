@@ -1,0 +1,6 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: Public Domain (CC0)
+Origin: http://opengameart.org/content/powers-icons
+
+Icons for special powers in my RPG.
+The attached .zip contains the Blender file used to create these.

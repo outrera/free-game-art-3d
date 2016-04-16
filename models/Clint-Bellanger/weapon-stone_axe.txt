@@ -1,0 +1,7 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY, GPL2
+Origin: http://opengameart.org/content/stone-axe
+
+Simple stone hand axe.  Packed textures (256x256 normal and diffuse).
+
+(edit) attached the blender file I used for baking.  I baked in a couple stages.  I composited the ambient occlusion into the diffuse texture using GIMP (multiply layer).

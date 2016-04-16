@@ -1,0 +1,15 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY
+Origin: http://opengameart.org/content/bicycle
+
+Low-poly toon style bicycle.
+- 820 tris
+- UV Mapped
+- Uses Blender toon materials, but optional diffuse + spec images included
+- Fully rigged
+- Pedaling animation included
+
+Made for a side project I'm working on.
+
+Attribution Instructions: 
+Just put my name somewhere. Optionally you can put a link back to my OpenGameArt user page, or my blog (clintbellanger.net), or my main project site (flarerpg.org).

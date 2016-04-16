@@ -1,0 +1,24 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY
+Origin: http://opengameart.org/content/grass-and-water-tiles
+
+24 isometric tiles for a grassy area with small streams of water.
+
+Tiles contained:
+- 4 grass variations
+- 4 directions of concave bank
+- 4 directions of convex bank
+- 4 directions x 2 variations of straight bank
+- 2 directions pinched bank
+- 2 water variations
+
+The tiles are 64x64 each on a base tile size of 64x32.
+
+I increased the brightness/contrast slightly in post.  I'll probably use a dark version in my rpg.
+
+Note there is a slightly visible edge line on the water tiles.  I haven't figured out how to avoid this.
+
+Blender file attached in the .zip file.
+
+Grass based on http://opengameart.org/content/basic-grass
+

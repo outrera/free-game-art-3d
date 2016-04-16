@@ -1,0 +1,8 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY-SA
+Origin: http://opengameart.org/content/elven-weapon-set
+
+Elven/Fey weapon set.
+
+I only used procedural textures. I'm sure some nice etchwork or wrappings would really make these models look great. Most of these models based on the drawing Weapon Set Complete 2007 by Naraphim at deviantArt. (used with permission). Tech details: Created in Blender. Click the download button for the .blend file. Low Poly (each weapon is about 80-130 faces). Contains UV mapping but I didn't include textures.
+

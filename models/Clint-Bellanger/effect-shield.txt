@@ -1,0 +1,8 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY
+Origin: http://opengameart.org/content/shield-spell
+
+shield spell (force field)
+
+4 frames, 128x128 per frame
+

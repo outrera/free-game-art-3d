@@ -1,0 +1,23 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY
+Origin: http://opengameart.org/content/ring-set-precious-metals
+
+This set of 10 rings are made with silvery and gold precious metals.
+
+Each ring is about 1k to 3k tris. I created them primarily to serve as detailed inventory images/zooms. They're geared towards a fantasy RPG world (made for Flare).
+
+Each one is using simple Blender materials and a reflection map. The reflection map image is Public Domain, acquired from Burning Well.
+
+Attached is the Blender file with reflection maps. Also attached is 256px renderings of each ring in one sprite sheet.
+
+The rings are:
+- silver band
+- gold band
+- silver signet ring
+- gold wrap ring
+- silver celtic ring
+- gold ouroboros ring
+- silver round-cut sapphire ring
+- gold emerald-cut emerald ring
+- silver princess-cut diamond ring
+- gold teardrop-cut ruby ring

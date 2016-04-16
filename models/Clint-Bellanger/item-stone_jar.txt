@@ -1,0 +1,7 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY
+Origin: http://opengameart.org/content/stone-jar
+
+Simple dirty stone jar. 168 poly.
+
+Created in Blender and GIMP.  Contains 256x256 diffuse, normal, and specular maps.

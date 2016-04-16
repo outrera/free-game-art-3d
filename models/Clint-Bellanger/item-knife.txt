@@ -1,0 +1,15 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: Public Domain (CC0)
+Origin: http://opengameart.org/content/iron-knife
+
+Low-poly knife that could serve as a weapon or tool
+- 222 tris
+- 1024px diffuse + spec + normal
+- Blender format
+
+The base textures are Public Domain (CC0) from Yughues and Burningwell.
+
+Video preview: http://www.youtube.com/watch?v=16w5OvvA6sM
+
+Attribution Instructions: 
+Not required, but you can credit me by name (Clint Bellanger) or link back to my website http://clintbellanger.net

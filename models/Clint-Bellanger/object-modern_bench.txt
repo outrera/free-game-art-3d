@@ -1,0 +1,13 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY
+Origin: http://opengameart.org/content/modern-bench
+
+I saw a bench/coffeetable in this style while on vacation earlier this year, and I had to make it in 3D.
+
+Texture is 512x512 and based on Public Domain textures from the Blender Texture CD.
+
+84 tris.
+
+I tried to spend a bit of time on presentation.  Still learning about different shadow settings.
+
+Thing-A-Day for July 5, 2010!

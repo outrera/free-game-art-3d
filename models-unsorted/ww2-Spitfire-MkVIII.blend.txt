@@ -1,0 +1,9 @@
+Author: Saypen
+License: GPL2, GPL3, CC-BY-SA
+Origin: http://opengameart.org/content/spitfire-mk-viii
+
+A Spitfire MkVIII in the RAAF Grey Nurse Squadron's colors. Includes color map and normal map. Ailerons, rudder and elevator are all animated as shape keys and the canopy is openable.
+
+2500 faces
+2048*2048 color map
+2048*2048 normal map

@@ -1,0 +1,9 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY
+Origin: http://opengameart.org/content/pirate
+
+Privateer or Captain style pirate.
+
+About 5k tris.  UV unwrapped but not textured.  Not rigged.
+
+Base human found here (CC0 license) http://www.blendswap.com/3D-models/characters/large-muscled-man-division-1/

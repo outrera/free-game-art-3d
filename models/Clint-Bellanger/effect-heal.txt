@@ -1,0 +1,6 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY
+Origin: http://opengameart.org/content/heal-spell
+
+Healing sparkly spell
+6 frames at 64x64 per frame

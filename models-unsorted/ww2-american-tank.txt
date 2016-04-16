@@ -1,0 +1,8 @@
+Author: Saypen
+License: GPL2, GPL3, CC-BY-SA
+Origin: http://opengameart.org/content/american-tank
+
+An american tank. Treads arent rigged but an animated texture could be applied to them fairly easily. Includes a damaged and un undamaged mesh.
+
+1850 polygons [each mesh]
+1024*1024 color map

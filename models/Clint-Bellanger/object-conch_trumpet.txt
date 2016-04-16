@@ -1,0 +1,12 @@
+Author: Zeldyn, Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY
+Origin: http://opengameart.org/content/conch-trumpet
+
+Fantasy conch-shell trumpet.
+
+Based on concept art by Zeldyn http://zeldyn.deviantart.com/
+
+958 tris.  Contains a simple diffuse map (512x512).
+
+Designed for the Radakan project as an instrument for the Xemna race. http://www.radakan.org/
+

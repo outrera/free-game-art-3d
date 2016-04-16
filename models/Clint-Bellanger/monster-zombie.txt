@@ -1,0 +1,21 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY
+Origin: http://opengameart.org/content/zombie-0
+
+Zombie!
+
+Low poly.  Not UV unwrapped, but rigged with these animations:
+- Stance (4 frames)
+- Lurch (8 frames)
+- Slam (4 frames)
+- Bite (4 frames)
+- Block (2 frames)
+- Hit and Die (6 frames)
+- Critical Death (8 frames)
+
+I used this model to create 2D sprites for my isometric RPG.
+
+Included is my custom Python script that renders the animation in eight directions (every 45 degrees).
+
+Added a different zombie walk animation, cleaned up some floor clipping, and set AA to CatRom.
+

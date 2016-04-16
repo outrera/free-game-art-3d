@@ -1,0 +1,13 @@
+Author: Naraphim, Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: GPL2, GPL3, CC-BY-SA
+Origin: http://opengameart.org/content/long-handled-scimitar
+
+A very elven-style long-handled scimitar.
+
+Based on concept art by Naraphim, used with permission: http://naraphim.deviantart.com/art/Weapon-Set-Complete-2007-73660253 (top row, 2nd from the left)
+
+Very low poly (178 tris).  Simple diffuse/spec/normal maps included plus baking copies.  Textures are Public Domain from the Blender Texture CD.
+
+Because the blade's so thin I stretched the UV map vertically.  You probably want to use textures that are half as high as they are tall (e.g. 512x256) if your engine supports it.
+
+Matches the style of my really old Elven Weapon Set: http://opengameart.org/content/elven-weapon-set

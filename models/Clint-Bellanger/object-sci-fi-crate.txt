@@ -1,0 +1,12 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY
+Origin: http://opengameart.org/content/sci-fi-crate
+
+Low-poly Sci-fi crate.  458 tri.  UV unwrapped and rigged in Blender.
+
+Sized as a 1m cube.  Stackable.  Forklift slots built in underneath.
+
+Includes an open/close animation: http://www.youtube.com/watch?v=FO50qT-rDk8
+
+No texture included.
+

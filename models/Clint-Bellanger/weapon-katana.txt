@@ -1,0 +1,7 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: Public Domain (CC0)
+Origin: http://opengameart.org/content/katana
+
+Mid-resolution Katana and sheath.
+
+Tsuba (cross guard) is a separate geometry and can be swapped out. Square, round, and lobed tsuba included. Blender (.blend) format.

@@ -1,0 +1,12 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY
+Origin: http://opengameart.org/content/broken-tower
+
+Here's a Broken Tower for a 2D isometric game.  It's designed for a base tile size of 64x32 (e.g. the ladder hole in the middle is that size).
+
+Also attached is the Blender file and the GIMP layered file.
+
+The method I used to create layers:  I rendered the entire tower first.  Then used those blank planes to render just the foreground and just the above-ground.  In GIMP I start with the foreground layer, use "Alpha to Selection", shrink the selection 1 pixel and sharpen the selection, and delete that selection from the lower layers.  In a tile-based engine you'll want to slice up the layers in fixed width sections as needed.
+
+
+

@@ -1,0 +1,22 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY, LGPL 2.1, LGPL 3.0
+Origin: http://opengameart.org/content/elemental-scrolls
+
+Eight elemental scrolls (and one blank scroll).
+
+Apologies to anyone who actually writes Kanji, I'm sure mine is terrible.
+
+Air
+Earth
+Fire
+Light
+Metal
+Shadow
+Water
+Wood
+
+This covers the 4 western elements, the 5 eastern elements, plus light and shadow.
+
+Rendered in 64x64 and 32x32 versions (actually, 60px and 30px respectively).  The zip file contains the blender file and textures used to render these.
+
+Created for Flare

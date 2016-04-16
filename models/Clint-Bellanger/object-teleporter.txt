@@ -1,0 +1,19 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY
+Origin: http://opengameart.org/content/teleporter-circle
+
+Runed teleporter circle for isometric fantasy games. Made for Flare.
+
+Textured using two public domain sources from OGA:
+
+4 Summoning Circles by Luke.RUSTLTD
+http://opengameart.org/content/4-summoning-circles
+
+Tiling Texture Pack 13 by Yughues
+http://opengameart.org/content/tilling-texture-pack-13
+
+The .zip file contains the Blender file for rendering and the GIMP file used to make the diffuse texture. The 3D platform object is about 1k tris and could be useful in 3D games.
+
+The Active teleporter glows and has a 4-frame spinning animation.
+
+Attached are 3 sizes for several base tile sizes (512x256, 256x128, 128x64).

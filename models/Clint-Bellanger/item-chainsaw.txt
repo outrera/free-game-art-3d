@@ -1,0 +1,11 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: Public Domain (CC0)
+Origin: http://opengameart.org/content/chainsaw
+
+Low poly (344 tri) chainsaw.
+
+UV unwrapped but not textured.
+
+Note: If I were wanting to do a low-poly chainsaw blade for a game, I would probably insert a single rectangle plane and animate the blade as a 2D texture.
+
+For the "Near Future" challenge, cause the Zombies will come any day now...

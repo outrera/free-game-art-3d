@@ -1,0 +1,8 @@
+Author: Saypen
+License: GPL2, GPL3, CC-BY-SA
+Origin: http://opengameart.org/content/bf-109
+
+The famous messerschmitt bf-109 in winter colors.
+
+1455 polygons
+1024*1024 color map

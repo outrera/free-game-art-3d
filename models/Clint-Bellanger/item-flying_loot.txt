@@ -1,0 +1,17 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY
+Origin: http://opengameart.org/content/rusty-ship
+
+Flying loot animations, for when you open a treasure container or kill a creature.
+
+Set of 23, a large starting set for OSARE.  The weapons and armor styles match attached icons by Blarumyrran.
+
+Contained:
+- Dagger, Shortsword, Longsword, Greatsword
+- Wand, Rod, Staff, Greatstaff
+- Slingshot, Shortbow, Longbow, Greatbow
+- Clothes, Leather Armor, Buckler, Steel Armor, Shield
+- Health Potion, Mana Potion
+- Boots, Belt, Ring, Gem
+
+Each animation is 6 frames and 64x128 pixels.  I took the Blender output into GIMP and set the Alpha Threshold to 32 before dropping the alpha layer onto pink (255,0,255).  If you want alpha-layer animations just hit the ANIM button in the attached blender file.

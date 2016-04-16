@@ -1,0 +1,10 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: Public Domain (CC0)
+Origin: http://opengameart.org/content/walk-cycles
+
+Simple walk cycles for my low poly male and female models. http://opengameart.org/content/base-human-models-low-poly
+
+Made to help the Avora project: http://forum.avora.org/viewtopic.php?f=33&t=16
+
+(the walk cycle is on frames 2 through 9.  Frame 1 is standing)
+

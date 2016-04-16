@@ -1,0 +1,11 @@
+Author: Sindwiller, Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: GPL2, GPL3, CC-BY-SA
+Origin: http://opengameart.org/content/medieval-building-tiles
+
+60 tiles to create a nice variety of medieval buildings.  Isometric view, for a tile base of 64x32.  The tiles are 64x192.
+
+Created for OSARE and for the Old City friday challenge.
+
+Roof texture is from the public domain Blender Texture CD.  Stone texture is by Sindwiller: http://opengameart.org/content/old-brick-wall
+
+If someone wanted to try them out (say in GIMP), set the tileset grid to 64x192 and make a new image with a grid 32x16.  Turn on snap to grid on both.  You should see the right pieces fit together.  Note you have to work back to front or with layers if you forget to plan ahead.

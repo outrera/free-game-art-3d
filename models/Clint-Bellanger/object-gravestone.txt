@@ -1,0 +1,13 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY
+Origin: http://opengameart.org/content/cursed-grave
+
+Cursed grave! (Click the above preview to see it animated)
+
+Added to Flare as an undead summoning construct. If the player doesn't destroy it, it will continuously summon more zombies.
+
+8 directions, 3 animations. 128x128 frame size.
+
+Based loosely on one of Lamoot's props in this set http://opengameart.org/content/rts-medieval-props
+
+Texture is Public Domain from pdtextures.blogspot.com

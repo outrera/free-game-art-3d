@@ -1,0 +1,17 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY
+Origin: http://opengameart.org/content/goblin-lumberjack
+
+Goblin Lumberjack for an RTS.
+
+8 directions.  64x64 per frame.
+
+- idle 4 frames
+- walking 8 frames
+- chopping 6 frames
+- carrying 8 frames
+- pick up/put down 4 frames
+- block 2 frames
+- hit + die 6 frames
+
+Done on commission.  More to come soon!

@@ -1,0 +1,20 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY
+Origin: http://opengameart.org/content/antlion
+
+Antlion (spiderant, dire spider, soldier ant, etc.) creature sprites.
+
+32 frames in 8 directions:
+- 4 stance
+- 8 walking
+- 4 attack
+- 2 block
+- 6 hit/die
+- 8 critdie
+
+
+Very low poly (514 tris) blender file attached.
+
+I started this little guy in Fall '09, finally getting around to doing the last animations.
+
+(updated) added Fire Ant and Ice Ant renders

@@ -1,0 +1,29 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY
+Origin: http://opengameart.org/content/cave-tileset
+
+A cave tileset for OSARE.  3D models pre-rendered into 2D sprites.
+
+Features:
+- Two variety of straight, convex, concave base walls rendered four directions
+- Additional wall styles featuring spiderwebs, stalagmites, mushrooms, and mine shaft supports
+- 16 base floor tiles (best used in a repeating 4x4 grid)
+- Minecart tracks and carts
+- Floor rubble, bones, stalagmites, and stalactite-pillars
+- Simple water tiles
+
+I have many more features planned for this tileset, but this is a good enough start to make some maps.
+
+Note, I included a Tiled (map editor) specific tileset sprite sheet.  Tiled works best when each tile is the same size.  To operate as expected in Tiled, I flattened the water tiles just in the Tiled copy.
+
+Plenty of Blender files attached.  One day I will make a tutorial on how to make cave walls that connect properly -- it's far easier than it might seem.
+
+If you would like to use this tileset under different licenses please contact me.  I'll be happy to work something out with you.
+
+(Update)
+
+Slight tweak: using Mitch with Filter Size 1.5 gives better floor tiles than CatRom at 1.0.  It removes the slightly-light edge on tiles that reveals where the tiles are.
+
+(Update 2)
+
+Added clipped tiles that help in certain situations.  Various fixes to the Tiled tileset.

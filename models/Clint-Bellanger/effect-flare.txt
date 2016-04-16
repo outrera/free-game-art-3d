@@ -1,0 +1,25 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: Public Domain (CC0)
+Origin: http://opengameart.org/content/flare-effect-blender
+
+Inspired by leeor_net's flare effect here: http://opengameart.org/content/flare-effect
+
+It's not obvious how to create these kind of effects in Blender, but once you know where to look it only takes a minute to set up.
+
+What I did, in order:
+
+- Change render type under "Sky, Premul, Key" to Key.
+
+- Change format to PNG using RGBA
+
+- Add a mesh with just one vertex (I made a plane and removed the extra 3 vertices)
+
+- Add a material to this mesh.  Change the material type to halo
+
+- Set the material color to pure white
+
+- Halo materials have a special Shaders tab to set flare options.  I made the halo size bigger and enabled Rings, Lines, Star.
+
+- When you render using these settings (in 2.49) the alpha in the Render window might look messed up.  Save the png and check with an external app like GIMP.
+
+By further experimenting with the Halo shaders tab, you can create a decent variety of flares.

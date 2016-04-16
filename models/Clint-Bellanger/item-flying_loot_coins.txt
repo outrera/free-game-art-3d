@@ -1,0 +1,9 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY
+Origin: http://opengameart.org/content/flying-coins-loot
+
+Flying gold.  Three levels: 100 coins, 25 coins, 5 coins.
+
+Isometric sprites for a 64x32 base size.  6 frames each, 64x128 pixels per frame.
+
+Blender attached (simple 2.49 particles).

@@ -1,0 +1,14 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY-SA, GPL3, GPL2
+Origin: http://opengameart.org/content/sci-fi-containers
+
+Three low-poly sci-fi containers.
+
+Derived from the excellent concept art by Rzhanov Artem, also at OGA: http://opengameart.org/content/container
+
+I've named them Bi, Tri, and Quad based on their radial symmetry.
+- Bi: 318 tris
+- Tri: 412 tris
+- Quad: 372 tris
+
+All are UV-unwrapped.  I've applied simple Blender textures to face groups for this render.

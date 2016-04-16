@@ -1,0 +1,14 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY
+Origin: http://opengameart.org/content/dungeon-stairs
+
+Isometric dungeon stairs, made for Flare's dungeon tile set.
+
+The up stairs are 256x256 and the down stairs are 256x128. They are designed for a 4x4 tile area, assuming base tile sizes of 64x32.
+
+I've attached the Blender model used (the .zip file). Note it's not really made for a 3D game (in a fully 3D game you'd want modular stairs that actually connected properly to other floors).
+
+Textures are public domain via pdtextures.blogspot.com
+
+Attribution Instructions: 
+by Clint Bellanger

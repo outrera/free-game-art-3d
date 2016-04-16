@@ -1,0 +1,15 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY
+Origin: http://opengameart.org/content/dungeon-wall-segments-hi-poly
+
+3D dungeon walls for rendering
+
+From the original submission:
+
+I render each object individually the composite them together with ImageMagick Montage (can be done manually, just slower).
+
+My process: I make sure my 3d cursor is at the origin. Switch to Top View. I move the next item to the middle, Render, save as a .png. If necessary I rotate around the 3d cursor and render more angles.
+
+The lit wall sconce required special attention. I move the shadow catching floor out of the way for that piece, because otherwise it catches unwanted shadows from the light source.
+
+Of note here: the setup makes 128x128 tiles, where the base is 64x32. The camera and render settings are tweaked to get it just right. I'm using video game "Isometric" (2:1 perspective) and not true Isometric.

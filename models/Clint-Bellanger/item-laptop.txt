@@ -1,0 +1,15 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY
+Origin: http://opengameart.org/content/laptop
+
+Low poly, rigged laptop.  Includes the higher poly model I used for baking.
+
+Note, the texture doesn't include brand markings, keyboard markings, and ports.
+
+56 tris!  Packed 1024x1024 normal and diffuse textures.  I've attached 256x256 versions as previews (the renders from those are still excellent for games).
+
+The lid is rigged to open/close.
+
+My Thing-A-Day item for July 4th, 2010.
+
+(update) added a US-English keyboard layout

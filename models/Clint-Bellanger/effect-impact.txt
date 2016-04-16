@@ -1,0 +1,21 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY
+Origin: http://opengameart.org/content/sparks-fire-ice-blood
+
+In my RPG I'm using a set of animations called "sparks" to show missile impact.
+
+Each is a 4-frame 64x64 animation.  Each style has two variations.
+- fire
+- ice
+- blood
+
+Created using a very simplistic Blender particle effect.  I'm attaching the .blend files.
+
+Preview image done with the help of my other sprites:
+
+http://opengameart.org/content/fireball-spell
+
+http://opengameart.org/content/icicle-spell
+
+http://opengameart.org/content/zombie-sprites
+

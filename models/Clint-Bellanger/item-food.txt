@@ -1,0 +1,11 @@
+Author: Clint Bellanger 'pfunked' (http://opengameart.org/users/clint-bellanger)
+License: CC-BY
+Origin: http://opengameart.org/content/food-pack
+
+Low-poly food:
+- Turkey Leg (128 tri)
+- Cheese Wedge (132 tri)
+- Split Top Bread (144 tri)
+- Bunch of Grapes (620 tri)
+
+I've packed in diffuse maps (128x128).  Also included are copies of the food with the procedural materials (in case you want to bake higher res or alternate textures).
