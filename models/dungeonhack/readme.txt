@@ -1,0 +1,11 @@
+Author: Dungeonhack Contributors
+Licnese: GPL3
+Origin: https://sourceforge.net/projects/dungeonhack/
+
+"-- License --
+Unless otherwise noted, source code and assets are licensed under
+the terms of the GNU General Public License as published by the Free
+Software Foundation; either version 3 of the License, or (at your option)
+any later version."
+
+Note: before installing blender importer script, edit it to set IMPORT_OGREXMLCONVERTER to point to OgreXMLConverter, from OgreCommandLineTools package
