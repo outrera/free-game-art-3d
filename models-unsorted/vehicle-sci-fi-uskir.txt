@@ -1,0 +1,7 @@
+author: Gabriel Piacenti (http://opengameart.org/users/piacenti)
+License: CC-BY
+origin: http://opengameart.org/content/uskir
+
+This is a model I stopped working on. It is a high poly model and it is composed of a few separate objects that contain their own UV and textures. The weapons protruding out of the body are retractable, and by that I mean that if you create a shape key that makes the cylinders retreat towards their base and move the base towards the body it will be fairly hard to notice they are there.
+
+Donations appreciated and they will be used to improve my 3D through new software or extra time spent on the models. They can be done using this paypal link.

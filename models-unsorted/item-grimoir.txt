@@ -1,0 +1,10 @@
+author: Gabriel Piacenti (http://opengameart.org/users/piacenti)
+license: CC-BY 3.0
+origin: http://opengameart.org/content/spell-book-of-fire
+
+The Title Says it all. Blend file is in the zip and it has both models and the textures, one at 1024 and the other at 2048 res. 
+
+Donations appreciated and they will be used to improve my 3D through new software or extra time spent on the models. They can be done using this paypal link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=CCW3SXJZARA5W&lc=US&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
+
+Attribution Instructions: 
+If you do something with put my name somewhere if you remember but if you don't it's fine.

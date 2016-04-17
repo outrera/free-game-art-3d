@@ -1,0 +1,8 @@
+author: Gabriel Piacenti (http://opengameart.org/users/piacenti)
+license: CC-BY 3.0
+origin: http://opengameart.org/content/octobot
+
+I fun model that I made after brainstorming some ideas with my wife's little cousin. There are 6 variants of the robot and one for the sphere. The zip only has the blend inside which packed all other resources inside it. The file is large due to all the texture variations.
+
+Sketchfab link:
+https://sketchfab.com/models/92cb85e6070041aca572d59274aa43b8

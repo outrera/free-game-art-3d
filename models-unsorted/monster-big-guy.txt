@@ -1,0 +1,20 @@
+author: Gabriel Piacenti (http://opengameart.org/users/piacenti)
+license: CC-BY 3.0
+origin: http://opengameart.org/content/big-guy
+
+Blend file and textures in the zip folder. If you export the model from blender make sure you remove the displacement and subdivision modifiers. They are disabled for viewport and render but they are already set up if you wanna play around and see some variations to the bumping. 
+
+The model has 3130 triangles. It has diffuse and normal textures at 4096 res, specularity at 1024 res and displacement at 2048 res. It also has 10 animations.
+
+The bones for animation should be named according to what they do. The side bones kind of far from the other bones are for closing and openning the hands. There is also one that control both eyes. You should be able to figure out the othe bones (the ones with "main" in the name control most of the related limb). 
+
+To see all animations make sure you have the bones showing up (they are in the second layer) and select the corresponding action in the dope sheet after selecting action editor.
+
+If you have any questions let me know.
+
+ 
+
+Donations appreciated and they will be used to improve my 3D through new software or extra time spent on the models. They can be done using this paypal link.
+
+Attribution Instructions: 
+Please mention my name, "piacenti", if you use this model. If you are planning to make commercial use with this let me know (I like to look out how people ended up using professionally the stuff I made).

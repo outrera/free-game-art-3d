@@ -1,0 +1,9 @@
+Author: Laurence Veron-Dor 'doudoulolita'
+License: CC-BY-SA
+Origin: http://opengameart.org/content/parrot-macaw
+
+A parrot (or more exactly a macaw) made with Blender for javascript game Guyana-Dream (http://usf.tuxfamily.org/guyana-dream/). He has an armature and is animated to fly.
+
+Render with freestyle.
+
+I was helped by Guppy88 from the Blenderclan.

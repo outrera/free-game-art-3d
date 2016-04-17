@@ -1,0 +1,5 @@
+Author: Gabriel Piacenti (http://opengameart.org/users/piacenti)
+License: CC-BY
+Origin: http://opengameart.org/content/cyborg-wheeler
+
+Blend file contains all relevant textures.

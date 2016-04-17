@@ -1,0 +1,5 @@
+Author: Gabriel Piacenti (http://opengameart.org/users/piacenti)
+License: CC-BY
+Origin: http://opengameart.org/content/creeper
+
+Based on 5hiroi flaming cheese monster (public domain). Roughness map is not used in Unity shot although if tweeked to Unity's linking, it might do a better job than default. It works well in blender though.

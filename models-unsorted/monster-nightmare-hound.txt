@@ -1,0 +1,5 @@
+Author: Gabriel Piacenti (http://opengameart.org/users/piacenti)
+License: CC-BY
+Origin: http://opengameart.org/content/nightmare-hound
+
+Blend contains a hihger and a lower poly, newer blender version should be able to easily decimate the higher poly model well while keeping textures if needed.

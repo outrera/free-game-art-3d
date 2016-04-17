@@ -1,0 +1,10 @@
+Author: Gabriel Piacenti (http://opengameart.org/users/piacenti)
+License: CC-BY
+Origin: http://opengameart.org/content/alien-charge-blaster
+
+Zip contains blend with two models and their textures at 2048x2048 resolution. The gun is not shooting itself the idea is that this alien gun builds up an energy bolt when the handle trigger is held and shoots the charged energy ball when it is released.
+
+Donations appreciated and they will be used to improve my 3D through new software or extra time spent on the models. They can be done using this paypal link.
+
+Copyright/Attribution Notice: 
+I appreciate if you let me know you are using this in a real project.

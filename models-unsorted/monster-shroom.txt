@@ -1,0 +1,7 @@
+author: Katarzyna Zalecka and Gabriel Verdon, Gabriel Piacenti (http://opengameart.org/users/piacenti)
+license: CC-BY-SA 3.0
+origin: http://opengameart.org/content/shroom
+
+Fantasy creature based on Ancient Beasts concept art by Katarzyna Zalecka. There are a couple models included in the blend file. One has about 3k triangles and the other about 5k. Textures are included and are all resolution 1024x1024. Models are not rigged.
+
+Donations appreciated and they will be used to improve my 3D through new software or extra time spent on the models. They can be done using this paypal link. 

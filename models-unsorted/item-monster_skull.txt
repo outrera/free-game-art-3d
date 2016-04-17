@@ -1,0 +1,5 @@
+Author: Gabriel Piacenti (http://opengameart.org/users/piacenti)
+License: Public Domain (CC0)
+Origin: http://opengameart.org/content/skull-prop
+
+Just a little skull prop that may be used as part of a scene or even as an enemy.

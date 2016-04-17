@@ -1,0 +1,14 @@
+author: Killy Vera 'killyoverdrive', Gabriel Piacenti (http://opengameart.org/users/piacenti)
+license: CC-BY-SA 3.0
+origin: http://opengameart.org/content/wizard-3
+        http://opengameart.org/content/dark-alchemyst
+
+This is a model based on a concept art ( by  killyoverdrive's dark alchemist) from the concept art section of this website. The model didn't quite turn out the way I wanted and so I decided to stop working on it and so there is no animations for it. 
+
+The model has 4096x4096 color and normal map and a 1024x1024 emission map.
+
+Total of 2630 triangles.
+
+blend file format. 
+
+Donations appreciated and they will be used to improve my 3D through new software or extra time spent on the models. They can be done using https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=CCW3SXJZARA5W&lc=US&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted

@@ -1,0 +1,11 @@
+author: Gabriel Piacenti (http://opengameart.org/users/piacenti)
+license: CC-BY 3.0
+origin: http://opengameart.org/content/wooden-box
+
+A box model I made a while ago and forgot about. It is great as a destructible object.
+
+It has 768 trinagles but can be easily reduced to less if the inside faces are deleted.
+
+Each side is an instance and so a change to one changes the rest. This also means you might want to just join them all in one object after you make any changes you may want. 
+
+Donations appreciated and they will be used to improve my 3D through new software or extra time spent on the models. They can be done using https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=CCW3SXJZARA5W&lc=US&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted

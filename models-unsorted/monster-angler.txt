@@ -1,0 +1,18 @@
+author: 5hiroi, Gabriel Piacenti (http://opengameart.org/users/piacenti)
+license: CC-BY-SA 3.0
+origin: http://opengameart.org/content/angler-man-3d
+
+Model has 3042 triangles. It also has diffuse, normal and displacement maps at 4096 res and specular at 1024 res. The model is fully rigged and weight painted but some fine tuning may be necessary for some movements. 
+
+This model is based on "The Angler Man" by 5hiroi found in the concept art section of this website. The concept art is under public domain.
+
+There are two cenes, one for the render in cycles and the other for blender internal. You probably will want the blender internal one for games, just remember to switch.
+
+ A viewer for the model is found here
+
+ 
+
+Donations appreciated and they will be used to improve my 3D through new software or extra time spent on the models. They can be done using this paypal link.
+
+Copyright/Attribution Notice: 
+If you can, mention my name if you use it for a larger project.

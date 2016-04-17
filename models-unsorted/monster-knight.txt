@@ -1,0 +1,8 @@
+Author: Gabriel Piacenti
+License: CC-BY 3.0
+Origin: http://opengameart.org/content/knight-2
+
+Blend file has model and textures packed.
+
+Copyright/Attribution Notice: 
+I'd appreciate if you let me know you are using this in a real project.
