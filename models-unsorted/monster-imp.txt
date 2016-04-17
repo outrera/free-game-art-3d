@@ -1,0 +1,7 @@
+Author: Gabriel Piacenti (http://opengameart.org/users/piacenti)
+License: CC-BY
+Origin: http://opengameart.org/content/imp
+
+Blend file contain 2 models, a low poly with about 3k triangles and a medium poly with abou 11k triangles. There are 6 textures, 3 for each model and all at 4096 resolution and they are responsible for most of the size of the file (the specular maps can be much smaller but I included the full size one in case you want it).
+
+Donations appreciated and they will be used to improve my 3D through new software or extra time spent on the models. They can be done using this paypal link.

@@ -1,0 +1,11 @@
+author: Katarzyna Zalecka and Gabriel Verdon, Gabriel Piacenti (http://opengameart.org/users/piacenti)
+license: CC-BY-SA 3.0
+origin: http://opengameart.org/content/uncle-fungus
+
+The blend file contain 3 models. One low poly (2728 triangles) one higher poly (10386 triangles) and one very high poly (132k polygons) for projecting lower ones in case you want to add different detail or use a higher res version for in game cutscenes. The low poly version has 1024x1024 textures and the higher poly has 4096x4096 textures. If you want to use the higher res textures in the low poly just bake from the higher to the lower poly. The very high poly version does not have any textures. This model is not rigged.
+
+The model was based on Ancient Beasts' uncle fungus concept art and the credit for it goes to them.
+
+ 
+
+Donations appreciated and they will be used to improve my 3D through new software or extra time spent on the models. They can be done using this paypal link.

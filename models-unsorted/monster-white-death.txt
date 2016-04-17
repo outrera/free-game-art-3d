@@ -1,0 +1,12 @@
+author: Killy Vera 'killyoverdrive', Gabriel Piacenti (http://opengameart.org/users/piacenti)
+license: CC-BY-SA 3.0
+origin: http://opengameart.org/content/white-death
+        http://opengameart.org/content/droid-concept-art
+
+Blend file contains two models, one low poly with 2246 triangles and the other mid poly with 5976 triangles. Both models have high resolution textures (occlusion, diffusion, normal) at 4096x4096. If you prefer a different color for the diffuse it shouldn't be too hard to change using photoshop or gimp. The models are not rigged. The pictures are showing some easy variations you can get by messing a little with the node settings. To get it to look like the last two pictures just crank up the normal intensity to 10. Based on concept art by Killy One: http://opengameart.org/content/droid-concept-art
+
+Hight map as separate file and picture of it being used with a little change on the normal map settings in blender.
+
+ 
+
+Donations appreciated and they will be used to improve my 3D through new software or extra time spent on the models. They can be done using this paypal link.

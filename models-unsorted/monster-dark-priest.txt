@@ -1,0 +1,11 @@
+author:  Katarzyna Zalecka and Gabriel Verdon, Gabriel Piacenti (http://opengameart.org/users/piacenti)
+license: CC-BY-SA 3.0
+origin: http://opengameart.org/content/the-dark-priest
+
+This is not really a low poly model. The polygon count depends on what version of the body is used, one of the versions is in layer 2 and the other is in layer 3. There is really only a small difference between the look of the body despite the difference in polygon count but I decided to leave both for you to choose. It is also possible to decrease polygon count considerably depending on how much of the body you actually want to keep. For layer 1 with body from layer 2 there are 7078 or faces (12120 triangles) and with body from layer 3 there are 11538 faces (23012 tris). Textures are included. Model is set up on cycles and is fully rigged.
+
+The credit to this model goes to concept art from Ancient Beasts. 
+
+ 
+
+Donations appreciated and they will be used to improve my 3D through new software or extra time spent on the models. They can be done using this paypal link.

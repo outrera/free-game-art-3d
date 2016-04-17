@@ -1,0 +1,5 @@
+author: Gabriel Piacenti (http://opengameart.org/users/piacenti)
+license: CC-BY 3.0
+origin: http://opengameart.org/content/skinny-troll
+
+Skinny troll model with textures all packed in blend file. Use latest version of blender for best result.

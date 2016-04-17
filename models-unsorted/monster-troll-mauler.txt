@@ -1,0 +1,7 @@
+author: Gabriel Piacenti (http://opengameart.org/users/piacenti)
+License: CC-BY
+origin: http://opengameart.org/content/troll-mauler
+
+Blend contains 2 models, a low poly with 3000 triangles and a med one with 12000 tris. 
+
+Donations appreciated and they will be used to improve my 3D through new software or extra time spent on the models. They can be done using this paypal link.
