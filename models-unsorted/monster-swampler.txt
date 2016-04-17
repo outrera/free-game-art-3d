@@ -1,0 +1,10 @@
+Author: Katarzyna Zalecka, Jeepster (http://www.blendswap.com/blends/author/jeepster/)
+License: CC-BY-SA 3.0
+Origin: http://opengameart.org/content/swampler-3d-ancientbeastcom-creature
+
+This is one of the ~50 creatures of the free open source online PvP TBS game project under development AncientBeast.com
+
+Note that we're constantly working on this creature and others, improving them and adding animations, so is likely that this OGA upload won't be updated, but you can find the updated creature files in our Wuala open group: http://www.wuala.com/AncientBeast/bestiary/
+
+Attribution Instructions: 
+Credit/link the following: Ancient Beast (game project) http://www.AncientBeast.com Katarzyna Zalecka (concept art) http://kasia88.deviantart.com Jeepster (3d model) http://www.youtube.com/user/Jeepster3D
