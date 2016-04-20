@@ -1,0 +1,24 @@
+Author: Danimal (http://opengameart.org/users/danimal), Ancient Beast Project
+License: CC-BY-SA
+Origin: http://opengameart.org/content/dark-priest
+
+Dark Priest or Cultist, an evil troop I textured/animated for Open Dungeons, an open source remake of dungeon Keeper. https://opendungeons.github.io/ Animations: Idle, walk, run, attack, attack2, dance, happy, sad, sleep, die and 3 poses while being tortured.
+
+Original CC-BY-SA model by: Katarzyna Zalecka and Dread Knight (Ancient Beast project) Base Rig CC-BY by: Alejandro CG http://opengameart.org/content/iron-a...
+
+It uses Yughues awesome CC0 textures: http://opengameart.org/users/yughues
+
+ 
+
+Character in action:
+
+https://www.youtube.com/watch?v=xyiEAO7U3x8
+
+ 
+
+ 
+
+There is a giant version in one the layers, use that one if you have to rescale the character and armature since its a 1:1 and wont deform.
+
+Copyright/Attribution Notice: 
+Credit to me and the Ancient Beast Project

@@ -2,7 +2,16 @@ Author: Danimal (http://opengameart.org/users/danimal), Atmostatic (http://openg
 License: CC-BY-SA
 Origin: http://opengameart.org/content/roach-game-ready-and-animated
 
+Roach, a monster i rigged, animated and re-textured for Open dungeons an open source remake of dungeon Keeper. https://opendungeons.github.io/
+
+Animations: Walk, flee/run, attack1 and attack2, idle, sleep, dance, happy, sad and die
+
+Original model by Atmostatic:
+http://opengameart.org/users/atmostatic CC-BY-SA
+
+ 
+
+Look it in action: https://youtu.be/Lsb_FQUzoxg
 
 Copyright/Attribution Notice: 
-Danimal (http://opengameart.org/users/danimal)
-Atmostatic (http://opengameart.org/users/atmostatic)
+Credit: Danimal http://opengameart.org/users/danimal Atmostatic http://opengameart.org/users/atmostatic CC-BY-SA OGA: opengameart.org

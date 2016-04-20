@@ -1,3 +1,14 @@
-Author: Danimal (http://opengameart.org/users/danimal), Konstantin Maystrenko, Anthony Myers (http://opengameart.org/users/anthonymyers)
+Author: Konstantin Maystrenko, Anthony Myers (http://opengameart.org/users/anthonymyers), Retopo, Danimal (http://opengameart.org/users/danimal)
 License: CC-BY
 Origin: http://opengameart.org/content/animated-defender-aka-brigand
+
+Defender to be used as a Hero unit on "Opendungeons" a Dungeon Keeper open source remake: http://opendungeons.sourceforge.net/
+
+Original model CC-BY-3 belongs to Anthony Myers: http://opengameart.org/users/anthonymyers. I Retopologized it from 30k tris to 16k tris, rigged and animated it by using CC0 Motion Capture files.
+
+Animations: Walk, flee/run, attack1 and attack2, idle, sleep, dance, happy, sad and die; As NLA tracks, full and larger animations can be found on its "Action Editor".
+
+There are some errors that would need fine-tuning for a first person game, but its working perfectly for its intended use as an RTS unit.
+
+Copyright/Attribution Notice: 
+You need to credit: Konstantin Maystrenko->Concept; AnthonyMyers->Modeller; Danimal->Retopo/Rigging/Animation

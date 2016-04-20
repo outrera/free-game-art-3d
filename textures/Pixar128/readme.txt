@@ -18,7 +18,7 @@ Pixar One Twenty Eight includes:
 - And more ... snails, paper clips, & iridescent ribbon
 
 Cutting Edge in 1993
-At the time the idea of "repeating textures" was so innovative that new techniques were invented to create these images. In fact Pixar took out several patents for the technology, developed by David DiFrancesco, which you can read more about here Method for Borderless Mapping of Texture Images.
+At the time the idea of "repeating textures" was so innovative that new techniques were invented to create these images. In fact Pixar took out several patents for the technology, developed by David DiFrancesco, which you can read more about here: https://www.google.com/patents/US5194969
 
 Updated for 2015
 The texture library has been upgraded and now includes bump and normal maps. While created in 1993, this library still has many potential uses. Enjoy.

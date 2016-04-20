@@ -1,4 +1,18 @@
-Author: Danimal (http://opengameart.org/users/danimal), Contmike (http://www.blendswap.com/blends/view/66691)
+Author: Lamoot, Danimal (http://opengameart.org/users/danimal), Contmike (http://www.blendswap.com/blends/view/66691)
 License: CC-BY-SA
 Origin: http://opengameart.org/content/dark-elf-game-ready-and-animated
 
+Dark Elf, an evil troop I made game-ready, retextured, and animated with motion capture for Open Dungeons, an open source remake of dungeon Keeper. https://opendungeons.github.io/ Animations: Walk, flee/run, attack, idle, sleep, dance, happy, sad and die. Evil twin of: http://opengameart.org/content/elf-game-ready-and-animated
+
+Original CC-BY-SA model by Contmike: http://www.blendswap.com/blends/view/66691
+
+Crossbow CC-BY model by: Lamoot http://opengameart.org/content/low-poly-crossbow
+
+Hair created with Hair Factory v1.0 CC0 by MajorNightmare: http://www.blendswap.com/blends/view/48987
+
+Music by: incompetech
+
+look it in action: https://www.youtube.com/watch?v=GWGYJbewadc
+
+Copyright/Attribution Notice: 
+Credit Contmike, Danimal and Lamoot

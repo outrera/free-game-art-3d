@@ -2,4 +2,15 @@ Author: Danimal (http://opengameart.org/users/danimal), xGhostx7 (http://www.ble
 License: CC-BY-SA
 Origin: http://opengameart.org/content/goblin-animated-by-motion-capture
 
-http://opengameart.org/content/wind-weapon-pack-1
+Motion capture animated goblin for Open Dungeons, there are some clipping errors but since its to be be seem overhead there is no problem.
+
+Animations: Walk, flee/run, attack1 and attack2, idle, sleep, dance, happy, sad and die
+
+https://www.youtube.com/watch?v=LQRmZQU2yW0&feature=youtu.be
+
+Goblin Model by xGhostx7 CC0: http://www.blendswap.com/blends/view/72394
+
+Knife model by Wind astella CC-BY: http://opengameart.org/content/wind-weapon-pack-1
+
+Copyright/Attribution Notice: 
+Credit everyone involved in this model
