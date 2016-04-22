@@ -1,0 +1,16 @@
+Author: greyoxide
+License: Public Domain (CC0)
+Origin: http://opengameart.org/content/shipyard
+
+This blend file contains a set of ship parts for assembling your own space ship concepts.
+- Layer one is your workspace,
+- Layer two has hull sections,
+- Layer three has smaller components,
+- Layer four has an engine builder you can use to make your own engine designs
+- Layer five has a collection of hardpoint objects
+- Layer six has some greeble type things
+- Layer twenty has a few example ships
+
+It was created by blendswap user greyoxide, and the original download link is here:
+
+http://www.blendswap.com/3D-models/vehicles/shipyard-v0-7/

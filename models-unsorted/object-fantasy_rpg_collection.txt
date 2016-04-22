@@ -1,0 +1,17 @@
+author: rubberduck
+License: Public Domain (CC0)
+origin: http://opengameart.org/content/50-fantasy-rpg-asset-models
+
+i made 50 models for fantasy RPGs,
+
+in this pack are:
+
+torches, temple-alike-models, fences, walls and towers, bridges, a wooden cart, treasure chests, candle holders, pillars, gates, statue-holders and more
+
+the preview images show only 20 of 50 models and they aren't textured or unwrapped because of the huge amount.
+
+some models have variations (see 3rd preview image), in the blend-file they are overlapping in some cases.
+
+ 
+
+onother use is for making isometric graphics out of it after texturing.

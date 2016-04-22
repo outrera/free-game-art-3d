@@ -1,0 +1,27 @@
+author: rubberduck
+License: Public Domain (CC0)
+origin: http://opengameart.org/content/free-isometric-plants-pack
+
+his pack contains 15 different kinds of plants + blend-file:
+
+all models and textures are from yughues, cc0, textures are unchanged
+
+in most cases models are unchanged too.
+
+size is based on 64x32 tiles
+
+1: 6x bamboo
+2: 3x big tree
+3: 5x bush
+4: 4x cactus
+5: 5x grass
+6: 3x tree
+7: 6x palm
+8: 8x pine with full snow
+9: 8x pine with half snow
+10: 8x pine without snow
+11: 5x shrub1
+12: 5x shrub2
+13: 2x swirl
+14: 5x tropical
+15: 6x weed
