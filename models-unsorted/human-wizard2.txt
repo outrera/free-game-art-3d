@@ -1,0 +1,9 @@
+Author: Anthony Myers (http://anthonymyers.artstation.com/)
+License: CC-BY
+Origin: http://opengameart.org/content/wizard-4
+
+Decided to share the work (harlan brownings making a paper model) so I thought I would share with OGA as well.
+
+Rigged with animation (if your using in a project you may want to change the sword out it looks a bit to much like orcrist from the movie)
+
+I have other blender animation as well just not in te same file (block,idle, swing low  and mid) if any one is interested just let me know. ill post then maybe somone can combine them
