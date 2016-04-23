@@ -1,0 +1,8 @@
+Author: Anthony Myers (http://anthonymyers.artstation.com/)
+License: Public Domain (CC0)
+Origin: http://opengameart.org/content/the-down-necker
+
+owpoly 1001 tris (in quads) Razorback in obj. and sculprtis format
+
+Attribution Instructions: 
+none just a tribute to 305th bob hellwig
