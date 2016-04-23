@@ -1,0 +1,12 @@
+Author: djonvincent
+License: Public Domain (CC0)
+Origin: http://opengameart.org/content/mage-tower
+
+A tower going to be used in my game. Comes with normal and specular maps.
+
+162 triangles
+
+222 vertices
+
+Attribution Instructions: 
+Attribute this site, opengameart.org!

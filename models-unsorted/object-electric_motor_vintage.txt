@@ -1,0 +1,12 @@
+Author: Rob Walker 'ulf' (http://tempestintheaether.org/)
+License: CC-BY 3.0
+Origin: http://opengameart.org/content/vintage-electric-motor
+
+Inspired by the Emerson motor, this item is suitable for all your steampunk needs.
+
+It has 1716 triangle, 998 verts, diffuse, specular and normal maps at 1024 x 1024 pixels.
+
+All textures are original and created by myself.
+
+Copyright/Attribution Notice: 
+Model and texture by Ulf
