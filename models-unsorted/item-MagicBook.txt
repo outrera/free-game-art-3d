@@ -1,0 +1,8 @@
+Author: kindland
+License: Public Domain (CC0)
+Origin: http://opengameart.org/content/death-book
+
+A kind of book, the uv's and bakes are not that good, just for tests is ok.
+
+Copyright/Attribution Notice: 
+no credits required

@@ -1,0 +1,7 @@
+Author: hwoarangmy
+License: CC-BY-SA
+Origin: http://opengameart.org/content/monk-animated
+
+Hello, I've added some animations for the Monk from CDmir for use in the OpenDungeons project: http://opendungeons.github.io/
+
+Copyright/Attribution Notice: Model/rigging from CDmir:Monk by CDmir Animations:- Attack1- Die- Flee- Idle- Walk- Sleep- Sad- TortureFire (animation when the creature is burnt by magic fire)

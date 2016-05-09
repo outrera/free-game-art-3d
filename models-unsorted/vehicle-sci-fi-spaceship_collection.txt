@@ -1,0 +1,10 @@
+Author: Viktor Hahn (Viktor.Hahn@web.de)
+License: CC-BY-SA
+Origin: http://opengameart.org/content/5-space-ships
+
+5 fighter class space ship models. I used them to render 2D sprites, but I guess they can be used for 3D games as well.
+
+The .zip file contains 5 .blend files with diffuse, specular, normal and emission textures included, ~2k verts.
+
+Copyright/Attribution Notice: 
+This work, made by Viktor Hahn (Viktor.Hahn@web.de), is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. http://creativecommons.org/licenses/by-sa/3.0/
