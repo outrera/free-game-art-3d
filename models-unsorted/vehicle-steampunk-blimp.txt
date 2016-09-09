@@ -1,0 +1,11 @@
+Author: Stefan J. Kreuzwieser 'Crossmeadow' (http://www.james.at.gg)
+License: CC-BY
+Origin: http://opengameart.org/content/blimp
+
+Here is a little low-poly blimp in the style of Clonk.
+
+It's also made for 2D-Sidescrollers.
+
+UV-Maps inkluded.
+
+I made this in the late 2012 für the free game "gwX". If you are interessted in the game you can find the last remains here. http://launix.de/gwx/?r=lazarusforum
