@@ -1,0 +1,14 @@
+Author: Blender Foundation (gooseberry.blender.org)
+License: CC-BY
+Origin: http://opengameart.org/content/franck-cosmos-laundromat-animated-game-character
+
+Franck from the open movie "cosmos laundromat" - game ready - rigged and animated
+
+this model is based on the origin sheep model from the blender open movie "cosmos laundromat", which is licensed under cc-by (i downloaded it from https://cloud.blender.org/p/characters/567927bac379cf211051a67a)
+
+I use this character in my game laundred sheep ( repositories can be found here: https://notabug.org/rbduck), the game itself is in a beta phase and a bit buggy too.
+
+A website for the game and more information about it is coming soon.
+
+Copyright/Attribution Notice: 
+The origin model is from the blender open movie "cosmos laundromat": (CC) Blender Foundation | gooseberry.blender.org
