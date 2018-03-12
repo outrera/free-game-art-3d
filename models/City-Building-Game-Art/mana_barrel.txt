@@ -1,0 +1,13 @@
+author: City Building Game Art (http://www.citybuildingkit.com/)
+License: Public Domain (CC0)
+origin: https://opengameart.org/content/elixir-storage-building-for-mobile-rts-games
+
+Secure your liquid elixir currency in your RTS game with this storage unit either for crystals or liquids. Colorful magic theme with Norse runes and liquid crystals.
+
+Includes:
+
+    Large 1000x1000 PNG image
+    .Blend Blender 3D source included
+    Magic viking runes theme
+
+Let me know if you have any questions or requests!

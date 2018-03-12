@@ -1,0 +1,12 @@
+author: City Building Game Art (http://www.citybuildingkit.com/)
+License: Public Domain (CC0)
+origin: https://opengameart.org/content/magic-summoning-circle
+
+Magic summoning circle to summon demons or whatever else your magic game is cooking up.
+
+Includes:
+
+    Large 768x512 PNG transparent image
+    .Blend Blender 3D source included
+
+Let me know if you have any questions or requests!

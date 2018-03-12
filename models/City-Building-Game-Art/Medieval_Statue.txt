@@ -1,0 +1,14 @@
+author: City Building Game Art (http://www.citybuildingkit.com/)
+License: Public Domain (CC0)
+origin: https://opengameart.org/content/stone-statue-city-decoration
+
+A white marble stone greek statue to decorate the scene in your classic game.
+
+Includes:
+
+    Large 2048x2340 PNG image
+    .Blend Blender 3D source included
+    High quality texturing
+    Soft, rich grass you could almost fall asleep on ;)
+
+Let me know if you have any questions or requests!

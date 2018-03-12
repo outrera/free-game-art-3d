@@ -1,0 +1,12 @@
+author: City Building Game Art (http://www.citybuildingkit.com/)
+License: Public Domain (CC0)
+origin: https://opengameart.org/content/rts-workshop-building-isometric-strategy-game
+
+A factory building for your isometric RTS game. Colorful and creative design. One of my favorites, next to our pirate defense cannon item. :)
+
+Includes:
+
+    Large 3000x3000 PNG transparent image
+    .Blend Blender 3D source included
+
+Let me know if you have any questions or requests!

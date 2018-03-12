@@ -1,0 +1,14 @@
+author: City Building Game Art (http://www.citybuildingkit.com/)
+License: Public Domain (CC0)
+origin: https://opengameart.org/content/medieval-fountain-with-animated-water
+
+Medieval fountain with continuous water animation loop. A refreshing centerpiece for your city game.
+
+Includes:
+
+    Large 2300x2048 PNG image
+    .Blend Blender 3D source included
+    Water animation
+    Continuous looping decoration piece
+
+Let me know if you have any questions or requests!

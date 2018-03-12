@@ -1,0 +1,13 @@
+author: City Building Game Art (http://www.citybuildingkit.com/)
+License: Public Domain (CC0)
+origin: https://opengameart.org/content/spacewreck
+
+Mangled and completely destroyed space structure with spinning boulders
+
+Includes:
+
+    Large 2048x2110 PNG image
+    .Blend Blender 3D source included
+    Spinning boulders sprite images
+
+Let me know if you have any questions or requests!

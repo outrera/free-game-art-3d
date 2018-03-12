@@ -1,0 +1,15 @@
+author: City Building Game Art (http://www.citybuildingkit.com/)
+License: Public Domain (CC0)
+origin: https://opengameart.org/content/space-defense-cannon
+
+Blow stuff up with this huge cannon. And by huge, we mean huuuuuge.
+
+Includes:
+
+    Bigger than 1706x1757 pixels
+    .Blend Blender 3D source included
+    Separated cannon gun sprite images
+    Multiple angles for 360 rotation
+    Spinning rocket animation sprite images
+
+Let me know if you have any questions or requests!

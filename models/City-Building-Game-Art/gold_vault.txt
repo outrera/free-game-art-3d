@@ -1,0 +1,12 @@
+author: City Building Game Art (http://www.citybuildingkit.com/)
+License: Public Domain (CC0)
+origin: https://opengameart.org/content/gold-storage-building-for-mobile-strategy-games
+
+Protect your gold from village raiders in your RTS game with this village building.
+
+Includes:
+
+    Large 3000x3000 PNG image
+    .Blend Blender 3D source included
+
+Let me know if you have any questions or requests!

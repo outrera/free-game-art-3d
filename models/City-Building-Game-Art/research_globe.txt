@@ -1,0 +1,12 @@
+author: City Building Game Art (http://www.citybuildingkit.com/)
+License: Public Domain (CC0)
+origin: https://opengameart.org/content/research-building-for-mobile-strategy-games
+
+A science building for your mobile game. Includes colored png image taken from an isometric angle and original source. Can use this building to represent research, technology, or magic. No animation like some of our other free public domain assets (see our profile), but Blender source files included if you want to make some small looping animation on your own.
+
+Includes:
+
+    Large 3000x3000 PNG image
+    .Blend Blender 3D source included
+
+Let me know if you have any questions or requests!

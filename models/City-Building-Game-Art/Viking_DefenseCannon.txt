@@ -1,0 +1,14 @@
+author: City Building Game Art (http://www.citybuildingkit.com/)
+License: Public Domain (CC0)
+origin: https://opengameart.org/content/rts-cannon-low-poly
+
+Defend your village with this low poly rts defense cannon. Firing animation in multiple angles for 360 degree rotation. Made for a viking theme, see our other free art for more.
+
+Includes:
+
+    Large 2048x2108 PNG image
+    .Blend Blender 3D source included
+    Rotating cannon firing animation (12 angles)
+    Base platform separated from animation
+
+Let me know if you have any questions or requests!

@@ -1,0 +1,12 @@
+author: City Building Game Art (http://www.citybuildingkit.com/)
+License: Public Domain (CC0)
+origin: https://opengameart.org/content/goldmine-for-mobile-strategy-games
+
+Goldmine for your RTS mobile strategy games. Perfect for an island pirate theme. (See our other free pirate theme art like the priate cannon or pirate walls)
+
+Includes:
+
+    Large 3000x3000 PNG image
+    .Blend Blender 3D source included
+
+Let me know if you have any questions or requests!
