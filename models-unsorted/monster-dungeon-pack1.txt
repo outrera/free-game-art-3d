@@ -1,0 +1,5 @@
+Author: corydalis
+License: CC-BY-SA 4.0
+Origin: https://opengameart.org/content/dungeon-pack-1
+
+5 Character models with animations and a dungeon map. Goblin, Ogre, Zombie, Warrior 1, Warrior 2. 
