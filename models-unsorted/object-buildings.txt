@@ -1,0 +1,11 @@
+author: rubberduck
+license: Public Domain (CC0)
+origin: https://opengameart.org/content/isometric-medieval-buildings
+
+I made 2 medieval buildings for the flare game. More of this type are planned in future.
+
+They are modelled and made by me, including textures from own photos. (Except these CC0 barrels from yd)
+
+Included are a snowy / winter variant, with sun shadow, cloudy shadow and no shadow and 2 resolutions (for 128x64 and 64x32 isometric games)
+
+The source blend file is large, unpacked 94,5 MB, also the rendered output is edited a bit with gimp, re-rendering will give slightly different results.
