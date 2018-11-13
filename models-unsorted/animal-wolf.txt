@@ -1,0 +1,29 @@
+Author: Joshua Crown 'crownjoshua' (http://www.twitter.com/pomileinc)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/wolf-low-poly-rigged
+
+This is a wolf in a low poly art style.
+
+I also included .obj and .3ds formats for those who don't use blender :)
+
+After Studying a wolf's anatomy and going through some quadruped blender tutorial i was able to make a simple rig for the wolf.
+
+I also add a spline IK for the Tail
+
+ 
+
+I have included both the non rigged and rigged versions.
+
+ 
+
+I did not apply the Mirror Modifier yet in case you want to make any changes.
+
+ 
+
+Hope you find it useful :)
+
+Vertice count: 318
+
+ 
+Copyright/Attribution Notice: 
+Attribution is not necessary but would be appreciated

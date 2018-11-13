@@ -1,0 +1,19 @@
+Author: Danimal (http://opengameart.org/users/danimal)
+License: CC-BY-SA 3.0
+Origin: https://opengameart.org/content/giant-egg-sack
+
+A giant egg-sack for creepy giant insects or some kind of alien plant/inmovile creature.
+
+Poli number is high (41k) due to Subsurf activated on main body since its intended to be made into a 2d model, erasing that modifier turns its into a 6k lowpoly asset
+
+Animated (some kind of heart beating animation):
+
+1-30 Inflates
+
+31-45 deflate
+
+All textures are cc0 obtained from Open Game Art
+
+
+Attribution Instructions: 
+Credit me if you use it.

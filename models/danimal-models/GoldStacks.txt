@@ -1,0 +1,13 @@
+Author: Danimal (http://opengameart.org/users/danimal)
+License: CC-BY-SA 3.0
+Origin: https://opengameart.org/content/gold-stacks
+
+Four levels of gold stacks i created to be used in "Open dungeons" an open source remake of dungeon Keeper, ordered from layer 1 to 4. They are low poly with normal and specular maps.
+
+I used Nobiax textures:
+
+http://nobiax.deviantart.com/gallery/24853853/Packs?offset=0
+
+the others are public domain or created by me.
+Copyright/Attribution Notice: 
+Credit me if you use it, ok? ;)

@@ -1,0 +1,18 @@
+Author: Danimal (http://opengameart.org/users/danimal), Yughues, Paramecij
+License: CC-BY-SA 3.0
+Origin: https://opengameart.org/content/cuttingsaw-workbench
+
+Low poli workbench, uv-unwraped, textured, with normals and one animation called "Loop"; to be used in "Open dungeons" an open source remake of dungeon Keeper.
+
+http://opendungeons.sourceforge.net/
+
+ 
+
+It uses Yughues awesome CC0 textures:
+http://opengameart.org/users/yughues
+
+And Paramecij tree textures:
+http://opengameart.org/content/paramecijs-tree-trunks-and-stumps-texture-pack-1
+
+Copyright/Attribution Notice: 
+Credit me, Yughues and Paramecij

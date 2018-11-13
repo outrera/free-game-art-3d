@@ -1,0 +1,14 @@
+Author: Danimal (http://opengameart.org/users/danimal)
+License: CC-BY-SA 3.0
+Origin: https://opengameart.org/content/celtic-cross
+
+A low poly pseudo-celtic cross, 92 tis, textured, two textures sizes included, 1024 and 512. To be used on "Open Dungeons" a Dungeon Keeper open source remake:
+
+http://opendungeons.sourceforge.net/
+
+It uses public domain images and Yughues awesome CC0 textures:
+
+http://opengameart.org/users/yughues
+
+Copyright/Attribution Notice: 
+Credit me if using

@@ -1,0 +1,13 @@
+Author: Danimal (http://opengameart.org/users/danimal), Yughues
+License: CC-BY-SA 3.0
+Origin: https://opengameart.org/content/workbench-0
+
+
+Low poli workbench, uv-unwraped, textured, with normals; to be used in "Open dungeons" an open source remake of dungeon Keeper.
+
+ It uses Yughues awesome CC0 textures:
+
+http://opengameart.org/users/yughues
+
+Copyright/Attribution Notice: 
+Credit me and Yughues

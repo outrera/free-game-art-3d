@@ -1,0 +1,15 @@
+Author: Danimal (http://opengameart.org/users/danimal)
+License: CC-BY-SA 3.0
+Origin: https://opengameart.org/content/boulder-trap
+
+A freaking boulder trap ready to follow and squish any would be Indiana Jones.
+
+Low poly 250 tris, textured.
+
+It uses Yughues awesome CC0 textures:
+
+http://opengameart.org/users/yughues
+
+**Updated with a rolling animation***
+Copyright/Attribution Notice: 
+Give credit, i wonder if someone actually does it.

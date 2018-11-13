@@ -1,0 +1,33 @@
+Author: Danimal (http://opengameart.org/users/danimal)
+License: CC-BY-SA 3.0
+Origin: https://opengameart.org/content/spyke-trap-low-poly-updated
+
+Spyke trap made for Open Dungeons (open source Dungeon keeper clone), 280 vertex, 249 faces, textured, with normal map, ambient oclussion(already applied to texture but included in pack) and animated:
+
+1-22 Triggered
+
+23-51 Rearming itself
+
+*** UPDATED 28/02/2013 Thanks to Skorpio, who corrected many details and added a specularity map now it looks more awesome (second picture). ***
+
+ 
+
+All textures and .psd source file included in the zip;
+
+Used Rusted metal textures done by Poss from here:
+
+http://opengameart.org/content/rusted-metal-texture-pack   (CC-BY 3)
+
+ My thanks to skorpio from OpenDungeons forums for his artistic guidance (and for wanting me to release his modifications), if you use this model you need to give me credit. Constructive criticism is welcome, especially since this is my first normal mapped model.
+
+Updates:
+
+- Joined the two objects and the materials
+
+- Added an armature
+
+- Rebaked the ambient occlusion
+
+- Added a specularity map (it's only visible from certain angles)
+Attribution Instructions: 
+If you use this model you need to give me credit.

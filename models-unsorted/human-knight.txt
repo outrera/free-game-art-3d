@@ -1,0 +1,31 @@
+Author: Joshua Crown 'crownjoshua' (http://www.twitter.com/pomileinc)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/knight-rigged-mid-poly
+
+Here is a turn table preview of the model
+
+https://www.youtube.com/watch?v=n9KCuhW3ucg
+
+ 
+
+This is a model i made for an animation i did
+
+i was to post it about a month ago but didn't have the time :P
+
+Rigged with rigify
+
+ 
+
+Vertices
+
+Man - 8000
+
+Armour - 12000
+
+ 
+
+Body on Layer 1
+
+Eyes, mouth on Layer 3
+
+Rig on Layer 6

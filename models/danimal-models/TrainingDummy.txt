@@ -1,0 +1,12 @@
+Author: Danimal (http://opengameart.org/users/danimal), Yughues
+License: CC-BY-SA 3.0
+Origin: https://opengameart.org/content/training-device
+
+Training device, low poly (576 tris), animated; to be used on "Open Dungeons" a dungeon keeper open source remake:
+
+http://opendungeons.sourceforge.net/
+
+Metal texture CC0 from: http://opengameart.org/users/yughues
+
+Copyright/Attribution Notice: 
+Credit me

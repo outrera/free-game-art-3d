@@ -1,0 +1,45 @@
+Author: Danimal (http://opengameart.org/users/danimal), Julius
+License: CC-BY-SA 3.0
+Origin: https://opengameart.org/content/adventurer-militia-peasant-low-poly
+
+This model is a low-level adventurer with all the props, or a militia with just shield and sword, also included working tools to turn him into a working peasant.
+
+It has 2841 Vertex and 2772 faces, layer 1 have the model, layer 2 have different tools that are switched with layer 1 depending on animation, layer 3 have cameras and lights.
+
+Animations:
+
+1-210 Idle
+
+211-250 Attack1 (slash)
+
+251-270 Attack2 (sword thrust)
+
+271-285 Shield Block
+
+286-310 Cheering
+
+311-333 Death1 falling forward (first on knees and then ground)
+
+334-345 Death2 Falling backwards
+
+346-375 using pitchfork
+
+376-390 using shovel
+
+391 Holding Scythe (just a still pose)
+
+395-415 Walk
+
+Textures (jpg and psd-photoshop source inside rar file) and animations done by me, using BLENDER 2.49, base mesh obtained from here:
+
+ http://opengameart.org/content/low-poly-base-meshes-male-female (cc-BY-SA 3.0)
+
+The model has rigged eyes and mouth (no teeth thougth) and hands, animation was done by rotating bones since im not used to advanced rigs. Background used for photo:
+
+http://www.blendswap.com/blends/architecture/taverninn/ (cco)
+
+Contructive criticism is very welcome since i plan to do more of this guys as part of a maybe very ambitius personal game project. Being this the basic human unit that can promote to different warrior classes. I really learned a lot about modelling, texturing and animating working on it, this my best model up to date, so enjoy!
+
+(farmworking animations are a bit lacking but i think sufficient )
+Attribution Instructions: 
+Inclusion in credits if you use the model

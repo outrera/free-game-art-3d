@@ -1,0 +1,21 @@
+Author: Joshua Crown 'crownjoshua' (http://www.twitter.com/pomileinc)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/deer-low-poly-rigged
+
+This is a deer in a low poly art style.
+
+I have included both the non rigged and rigged versions.
+
+However i am still new to animation (about 3 months so it's a fairly simple rig). I also included .obj and .3ds formats as not everyone uses blender :) I modeled it from several references however as i am still new to animation, i included the editable blend file (before applying the mirror modifier in case you feel i made any mistakes)
+
+Vertice count: 414
+
+I modeled it for an animation project, and i will be releasing a number of the other assets such as the soldiers,fire tornado, grass, fire, barn and crops after i clean them up.
+
+If there are any other models in the animation you want, kindly tell me and i will release them under the CC ZERO license as well. :)
+
+https://www.youtube.com/watch?v=-Q7xqy2WWh4
+
+
+Copyright/Attribution Notice: 
+Attribution is not necessary but would be appreciated :)

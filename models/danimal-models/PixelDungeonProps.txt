@@ -1,0 +1,19 @@
+Author: Danimal (http://opengameart.org/users/danimal)
+License: CC-BY-SA 3.0
+Origin: https://opengameart.org/content/pixel-dungeons-set1-props-and-stuff
+
+This pack has 31(plus skin variations) very low poly models using 32x32 or 64x64 textures (mainly 32x32); vertex ranging from smallest model, 8 vertex, to biggest, 240 vertex; All done by me. Photosoph source files included.
+
+It contains the kind of props you can expect to find into a fantasy dungeon, plus foodstocks and valuables (coins and jewels).
+
+ 
+
+My thanks go to the Open Game Art pixel community, i learned quite a bit looking at their works. I could expand this set, but im out of ideas of what else to add, if you think i missed some important bit of dungeon stuff do tell me. Also, i tried to be methodical and homogeneus, so if you find some error please tell me.
+
+If this has a good welcome, I also intend to release in a near future other packs featuring weapons and characters when im finished with the small stuff.
+
+ 
+
+--Because Pixel Art is way more than just Minecraft--
+Attribution Instructions: 
+My name in credits if you use it. Also, please drop a word here, i like to see my modles being used :) .

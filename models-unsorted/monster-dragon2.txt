@@ -1,0 +1,5 @@
+Author: Matthew Fairfax 'DrakanFyr' (http://www.mattfairfax.com)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/dragon-3
+
+Low poly dragon model (unrigged and unskinned)
