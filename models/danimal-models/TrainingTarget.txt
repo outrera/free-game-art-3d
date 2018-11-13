@@ -1,0 +1,31 @@
+Author: Danimal (http://opengameart.org/users/danimal), Bart, p0ss
+License: CC-BY-SA 3.0
+Origin: https://opengameart.org/content/fantasy-training-target
+
+Training target made for Open Dungeons (open source Dungeon keeper clone) and AgentKeeper (its brother-in-arms project) , 260 vertex, 229 faces, textured, with normal map, ambient oclussion(already applied to texture), specularity map and animated:
+
+1-30   Right target rises
+31-45 Right target goes down
+
+46-75   Middle target rises
+76-90 Middle target goes down
+
+91-120   Left target rises
+121-135 Left target goes down
+
+138 All targets up - Still pose
+
+All textures packed inside .blend;
+
+Used Rusted metal textures done by Poss from here:
+
+https://opengameart.org/content/rusted-metal-texture-pack  (CC-BY 3)
+
+Bark texture by Bart:
+
+http://opengameart.org/content/5-tiling-bark-textures    (CC-BY 3)
+
+If you use it, please drop a word, i like to see my stuff being used, constructive criticism is also welcome.
+
+Attribution Instructions: 
+A link back to: http://opengameart.org/users/danimal

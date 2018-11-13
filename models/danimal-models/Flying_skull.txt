@@ -1,0 +1,30 @@
+Author: Danimal (http://opengameart.org/users/danimal)
+License: CC-BY-SA 3.0
+Origin: https://opengameart.org/content/flying-skull
+
+Made for Open Dungeons,
+
+Original model by: Gord Goodwin
+
+http://opengameart.org/content/skeleton-with-rig
+
+Bone texture and normals by: p0ss
+
+http://opengameart.org/content/bone-texture-pack
+
+Modifications, rigging and animation by Danimal (thats me ;) )
+
+4824 VERTEX AND 5958 FACES
+
+FRAMES:
+
+1-40 FLYING
+41-60 ATTACK
+61-110 IDLE(TAIL UP AND DOWN)/GUARDING(75-95)
+111-120 DEATH
+121 COILED/RESTING (just a pose, not a real animation)
+
+My first real try at animation, im sure there is a lot to improve in many areas, constructive criticism is welcome. Eyes and "nose" are joined inside skull to avoid normal problems on Unity3D, empty them if you need it.
+
+Also, i will be thankfull if someone can explain to me how should i do to make an animation in which parts of a skeleton fall apart without messing the whole animation.
+

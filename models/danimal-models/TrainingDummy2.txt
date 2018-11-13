@@ -1,0 +1,28 @@
+Author: Danimal (http://opengameart.org/users/danimal), p0ss
+License: CC-BY-SA 3.0
+Origin: https://opengameart.org/content/mecha-training-dummy
+
+Mecha Training Dummy made for Open Dungeons (open source Dungeon keeper clone) and AgentKeeper (its brother-in-arms project) , 286 vertex, 274 faces, textured, with normal map, ambient oclussion(already applied to texture), specularity map and animated. It was supposed to be just a dummy but when i finished it, i felt it could be used as some kind of mob, and gave it a walking and death animation; and remember "In soviet Russia training dummies train on YOU"
+
+++Animations should be speed up into game engine++
+
+1-40 Shield block
+
+41-80 Sword attack
+
+81-110 Walking (by jumping)
+
+111-133 Falling dead
+
+All textures packed inside .blend;
+
+Used Rusted metal textures done by Poss from here:
+
+http://opengameart.org/content/rusted-metal-texture-pack (CC-BY 3)
+
+Leon (Lion image from shield) crest banner, from Spain province Leon (public domain)
+
+If you use it, please drop a word, i like to see my stuff being used, constructive criticism is also welcome. Also, a link back to my profile would be nice.
+
+Attribution Instructions: 
+A link back to my profile: http://opengameart.org/users/danimal
