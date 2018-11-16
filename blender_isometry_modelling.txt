@@ -1,0 +1,9 @@
+1. Draw a concept sprite in raster editor and save it.
+2. Create an empty scene in blender with usual iso camera setup.
+3. Add plane quad.
+4. Apple you sprite as a texure to it (press add UV map).
+5. Now rotate your quad by 60.8553,-7.44692d,31.9421d
+6. If your art is on transparent background, then under texture pick color=1 and alpha=1, while under material enable transparency, set alpha=0, and specular=1
+7. Hurray! You're ready to model on top of it!
+
+
