@@ -1,0 +1,26 @@
+Author: rubberduck, Clint Bellanger, Justin Nichol
+License: CC-BY 4.0
+Origin: hhttps://opengameart.org/content/gemmed-items
+
+I made some gemmed items / icons including:
+
+4x regular gems (diamond, ruby, 2 other)
+4x rings
+4x keys
+4x staff
+
+They are coming in 4 resolutions: 256 (original render size), 128, 64, 32 and each in 2 version - one with a glow effect and one without
+
+
+The key models are from Clint Bellanger - https://opengameart.org/content/card-suits-keys
+
+Copyright/Attribution Notice: 
+key models:
+https://opengameart.org/content/card-suits-keys
+by Clint Bellanger, based on designs from Justin Nichol
+released under CC-BY 4.0
+
+diamond used in diamond key:
+https://opengameart.org/content/gems
+by Clint Bellanger
+originally released under CC-BY 3.0
