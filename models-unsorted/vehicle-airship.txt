@@ -1,0 +1,15 @@
+Author: Inazuma/inazumathelightning (https://twitter.com/inazumastriker), Jacob Mann (https://drassray.itch.io/)
+License: CC-BY
+Origin: https://drassray.itch.io/airship-smile-game-builder
+
+Here is a an airship model created by my good friend Inazuma. He makes some awesome 3D models as well as some very impressive pixel art. He let me have this model to edit and texture for use in my project: Washed Up. 
+
+Now that the project is long over, Inazuma gave me permission to share this model with anyone who might have use for it! The Model was made primarily for use in SMILE GAME BUILDER, but you may use it elsewhere. Enjoy!
+
+You can also check Inazuma out here:
+https://twitter.com/inazumastriker
+
+
+TERMS OF USE:
+
+This airship is free for commercial and non-commercial use in any development software. You may edit it freely to fit your needs, but you must credit inazumathelightning and Jacob Mann as the original creators. 

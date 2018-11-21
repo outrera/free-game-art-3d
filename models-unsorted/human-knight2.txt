@@ -1,0 +1,9 @@
+Author: Robert Ramsay (https://robert-ramsay.itch.io/)
+License: Royalty Free
+Origin: https://robert-ramsay.itch.io/antler-knight
+
+A 3D Animated model of a Knight Character, ready to be used in your 3D game.
+
+The original 3dsmax file is also supplied along with sprites so can be used in a 2D isometric game.
+
+

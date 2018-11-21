@@ -1,0 +1,10 @@
+Author:  Jacob Mann (https://drassray.itch.io/)
+License: Royalty Free
+Origin: https://drassray.itch.io/modular-dungeon-pack
+
+This is my previously released Modular Dungeon Pack for SMILE GAME BUILDER that I'm also sharing here on itch. 
+
+Terms and conditions:
+Free to use for commercial and non-commercial games in SMILE GAME BUILDER!
+You can not sell the assets on their own, edited or unedited.
+You must credit me: Jacob Mann!
