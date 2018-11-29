@@ -1,0 +1,12 @@
+Author: Carl Olsson 'surt'
+License: Public Domain (CC0)
+Origin: http://opengameart.org/content/low-spec-reticulans
+
+Just mesh and texture.
+
+Uses DawnBringer's 32 colour palette.
+
+Head: 40 tris, 32x32 pixels
+Body: 200 tris, 64x64 pixels
+Pistol: 52 tris, 32x32 pixels
+Rifle:  46 tris, 64x64 pixels

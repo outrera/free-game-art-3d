@@ -1,0 +1,5 @@
+Author: Carl Olsson 'surt'
+License: Public Domain (CC0)
+Origin: http://opengameart.org/content/low-poly-wilderness
+
+Just a rough test with quick-and-dirty UVs and textures.
