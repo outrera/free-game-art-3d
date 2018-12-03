@@ -1,0 +1,19 @@
+Author: pistachio
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/bird-yellow-billed-shrike
+
+Borked workflow test for feathers and getting a bird model under 1k tris. Works as a background prop.
+
+The .zip file includes the .blend with the scene and lighting setup used to make the preview.
+
+Models:
+
+Lowpoly mesh, IK rigged, UVed (996 tris)
+
+Textures (2K):
+
+Body Diffuse + Alpha
+Body Occlusion
+Body Normal + Bump
+Body Roughness (256^2)
+Body SSS/Translucent (256^2)
