@@ -1,0 +1,13 @@
+Author: Quaternius (https://quaternius.itch.io/)
+License: Public Domain (CC0)
+Origin: https://quaternius.itch.io/lowpoly-animated-animals
+
+6 Animated Animals with Death, Idle, Jump, Run and Walk animations in FBX , OBJ and Blend format.
+
+CC0 License https://creativecommons.org/publicdomain/zero/1.0/
+
+Consider supporting me on Patreon, even $1 helps me a lot!
+
+https://www.patreon.com/quaternius
+
+Thanks!
